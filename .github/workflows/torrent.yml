@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Wind.From.The.East.1970.1080p.BluRay.x264"
-  comment: "Wind.From.The.East.1970.1080p.BluRay.x264"
-  url: https://nl21.seedr.cc/ff_get/803850842/Wind.From.The.East.1970.1080p.BluRay.x264-[YTS.AM].mp4?st=OFYWqE1UTDFplKrR4_9dnA&e=1607964536
-  file_name: "Wind.From.The.East.1970.1080p.BluRay.x264-[YTS.AM].mp4"
+  name: "Colossus.The.Forbin.Project.1970.1080p.BluRay.x264"
+  comment: "Colossus.The.Forbin.Project.1970.1080p.BluRay.x264"
+  url: https://fr15.seedr.cc/ff_get/803882418/Colossus.The.Forbin.Project.1970.1080p.BluRay.x264-[YTS.AG].mp4?st=rH31jtqZKSes5-IQWYEPhQ&e=1607966301
+  file_name: "Colossus.The.Forbin.Project.1970.1080p.BluRay.x264-[YTS.AG].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
