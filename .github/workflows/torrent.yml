@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Colossus.The.Forbin.Project.1970.1080p.BluRay.x264"
-  comment: "Colossus.The.Forbin.Project.1970.1080p.BluRay.x264"
-  url: https://fr15.seedr.cc/ff_get/803882418/Colossus.The.Forbin.Project.1970.1080p.BluRay.x264-[YTS.AG].mp4?st=rH31jtqZKSes5-IQWYEPhQ&e=1607966301
-  file_name: "Colossus.The.Forbin.Project.1970.1080p.BluRay.x264-[YTS.AG].mp4"
+  name: "Cotton.Comes.To.Harlem.1970.1080p.BluRay.x264"
+  comment: "Cotton.Comes.To.Harlem.1970.1080p.BluRay.x264"
+  url: https://nl29.seedr.cc/ff_get/803899017/Cotton.Comes.To.Harlem.1970.1080p.BluRay.x264-[YTS.AG].mp4?st=k-63ka_gnfiTp6V-3tlUrA&e=1607967871
+  file_name: "Cotton.Comes.To.Harlem.1970.1080p.BluRay.x264-[YTS.AG].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
