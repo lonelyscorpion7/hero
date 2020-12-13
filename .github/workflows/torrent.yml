@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Forbidden.Photos.Of.A.Lady.Above.Suspicion.1970.1080p.BluRay.x264"
-  comment: "The.Forbidden.Photos.Of.A.Lady.Above.Suspicion.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFITU9XL3VWc1duSlgybkFMYjRMNVhnQ1JXU0dJUlFCalFMQi9WcUtZcXhLSGxIQjNSN0VjMThkYWZNREdENW9ja1lIdXluZnhGRHpBeWVrSEpoeW04YXlxRWNISVBkQTlSdHliNmh0MHdGZlhDUUtqaDZaZCt1WnYxUnJFRGRDbFVDT3BoNXNuS1BPVnhBRG9yUVEyejQ5VkZQREtQZ1JyekMrUWJZVCtOUTZkUWNPd1hWNk1kWU1aOUlLb2RKQ0hUK0p6bXM1NjFqeHFBaWNtYi85RUdCOWJuN3IvdXZOTEtRM2g2SGFGM040bGdvaW5nTTJ4djBaSUZXRWlKbldMT0E9PQ==/The.Forbidden.Photos.Of.A.Lady.Above.Suspicion.1970.1080p.BluRay.x264-[YTS.AM].mp4
-  file_name: "The.Horror.Of.Frankenstein.1970.1080p.BluRay.x264-%5BYTS.AM%5D.mp4"
+  name: "And.Soon.The.Darkness.1970.1080p.BluRay.x264"
+  comment: "And.Soon.The.Darkness.1970.1080p.BluRay.x264"
+  url: https://doc-04-74-docs.googleusercontent.com/docs/securesc/lqephelp3ehdhfrs6ka9220p7liahudg/jbt3ee20511113shptimbrespfm5ald1/1607867850000/09670154100834795402/09670154100834795402/1IPPO--ODuAhY358Lqm6ZwY6dvRzTttmM?e=download&authuser=0
+  file_name: "And.Soon.The.Darkness.1970.1080p.BluRay.x264-[YTS.LT].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
