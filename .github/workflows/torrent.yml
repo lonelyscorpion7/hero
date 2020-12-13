@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "girls.for.rent.1974"
-  comment: "girls.for.rent.1974"
-  url: http://linkspremium.download/1A7ECF42E/45.162.231.181/girls.for.rent.1974.mkv
-  file_name: "girls.for.rent.1974.mkv"
-  piece_size: 21 # Check the README.md for recommended piece size
+  name: "riot.1996"
+  comment: "riot.1996"
+  url: http://linkspremium.download/1DE5DE9F1/45.162.231.181/riot.1996.mkv
+  file_name: "riot.1996.mkv"
+  piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
   create:
