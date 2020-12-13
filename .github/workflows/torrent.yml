@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "the.defector.1966"
-  comment: "the.defector.1966"
-  url: http://linkspremium.download/1F3127A67/45.162.231.181/the.defector.1966.mkv
-  file_name: "the.defector.1966.mkv"
+  name: "Joe.1970.1080p.BluRay.x264"
+  comment: "Joe.1970.1080p.BluRay.x264"
+  url: https://www.seedr.cc/zip/106311712?st=b868346d951ea97e9f136d7f5a8302538f5bf24eac9feeda95ca786c1fa762a5&e=1607914680
+  file_name: "Joe (1970) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
