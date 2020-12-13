@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Scars.Of.Dracula.1970.1080p.BluRay.x264"
-  comment: "Scars.Of.Dracula.1970.1080p.BluRay.x264"
-  url: https://fr6.seedr.cc/ff_get/803337786/Scars.Of.Dracula.1970.1080p.BluRay.x264-[YTS.AM].mp4?st=AAZkmtYoS7WjmnPILsmNig&e=1607948159
-  file_name: "Scars.Of.Dracula.1970.1080p.BluRay.x264-[YTS.AM].mp4"
+  name: "The.Horror.Of.Frankenstein.1970.1080p.BluRay.x264"
+  comment: "The.Horror.Of.Frankenstein.1970.1080p.BluRay.x264"
+  url: https://cdn.loadbt.com/f2b8c08a83f54908b502bb8117fa2852ed4763ca/The%20Horror%20Of%20Frankenstein%20%281970%29%20%5BBluRay%5D%20%5B1080p%5D%20%5BYTS.AM%5D/The.Horror.Of.Frankenstein.1970.1080p.BluRay.x264-%5BYTS.AM%5D.mp4?sign=de11507414ba77defb0aa4e1f6d58cc2f6f31123&expires=1607952418&dl=1
+  file_name: "The.Horror.Of.Frankenstein.1970.1080p.BluRay.x264-%5BYTS.AM%5D.mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
