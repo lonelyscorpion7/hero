@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Nightbirds.1970.1080p.BluRay.x264"
-  comment: "Nightbirds.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIR2h1OURTYURBK3JEY05DNFVXWnJBVGFCMis2cHpvMGwxVU9iU0JZcUJ1NVY4NzZEd2huMFU5am0zMnZzV0tMZnZPTGhodFFaSVRCT2hsYTczcCs1aFpTc0NJWTN5Q3VFNStTbHdkdU4rTEpTYmZBTHJCT1JIbm9JKzFZZk8yVkErdXV3UDh5eDJLRUVmRUtDN1pNS2ZraFJkUENZT1ZySGZOMHlhVGtIWE5D/Nightbirds.1970.1080p.BluRay.x264.AAC-[YTS.MX].mp4
-  file_name: "Nightbirds.1970.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
+  name: "Cockeyed.Cowboys.Of.Calico.County.1970.1080p.WEBRip.x264"
+  comment: "Cockeyed.Cowboys.Of.Calico.County.1970.1080p.WEBRip.x264"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIRWZqYk1kNSsyR040VjloODJ3YnQ4V1pUNDlaMlltdVU2b0JaVnFJS0JUZEZHYklzekJMVnM4aytqazYwTWl0Q3hhWkRDOVJNbVp1eU5RczB3QlV0eVNtaWdBNUdtN0UyY0V0MHgwWmZtQWd4US9XMDlqV2VSdUQvR0ZseUpPTW0wVWUzNE5mSTB2VWVDenZ2dDRadlNyOTZ3OFR1MGxFdEtkWkZkMzJoOG9kR2dQSThjeGVlMCtwNWFyaVp5NkZuaVkzamRvL0czUTlTQXZSb2JreTllLzJjNU1iRFlENUpOS055YkdXNUxENQ==/Cockeyed.Cowboys.Of.Calico.County.1970.1080p.WEBRip.x264-[YTS.AM].mp4
+  file_name: "Cockeyed.Cowboys.Of.Calico.County.1970.1080p.WEBRip.x264-[YTS.AM].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
