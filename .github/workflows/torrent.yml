@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "jessis.girls.1975"
-  comment: "jessis.girls.1975"
-  url: http://linkspremium.download/A97263D05/45.162.231.181/jessis.girls.1975.mkv
-  file_name: "jessis.girls.1975.mkv"
-  piece_size: 20 # Check the README.md for recommended piece size
+  name: "orloff.against.the.invisible.man.1970"
+  comment: "orloff.against.the.invisible.man.1970"
+  url: http://linkspremium.download/6CF30A39B/45.162.231.181/orloff.against.the.invisible.man.1970.mkv
+  file_name: "orloff.against.the.invisible.man.1970.mkv"
+  piece_size: 21 # Check the README.md for recommended piece size
       
 jobs:
   create:
