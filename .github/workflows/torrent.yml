@@ -5,9 +5,9 @@ on:
       - master
       
 env:
-  name: "The.Horror.Of.Frankenstein.1970.1080p.BluRay.x264"
-  comment: "The.Horror.Of.Frankenstein.1970.1080p.BluRay.x264"
-  url: https://cdn.loadbt.com/f2b8c08a83f54908b502bb8117fa2852ed4763ca/The%20Horror%20Of%20Frankenstein%20%281970%29%20%5BBluRay%5D%20%5B1080p%5D%20%5BYTS.AM%5D/The.Horror.Of.Frankenstein.1970.1080p.BluRay.x264-%5BYTS.AM%5D.mp4?sign=de11507414ba77defb0aa4e1f6d58cc2f6f31123&expires=1607952418&dl=1
+  name: "The.Forbidden.Photos.Of.A.Lady.Above.Suspicion.1970.1080p.BluRay.x264"
+  comment: "The.Forbidden.Photos.Of.A.Lady.Above.Suspicion.1970.1080p.BluRay.x264"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFITU9XL3VWc1duSlgybkFMYjRMNVhnQ1JXU0dJUlFCalFMQi9WcUtZcXhLSGxIQjNSN0VjMThkYWZNREdENW9ja1lIdXluZnhGRHpBeWVrSEpoeW04YXlxRWNISVBkQTlSdHliNmh0MHdGZlhDUUtqaDZaZCt1WnYxUnJFRGRDbFVDT3BoNXNuS1BPVnhBRG9yUVEyejQ5VkZQREtQZ1JyekMrUWJZVCtOUTZkUWNPd1hWNk1kWU1aOUlLb2RKQ0hUK0p6bXM1NjFqeHFBaWNtYi85RUdCOWJuN3IvdXZOTEtRM2g2SGFGM040bGdvaW5nTTJ4djBaSUZXRWlKbldMT0E9PQ==/The.Forbidden.Photos.Of.A.Lady.Above.Suspicion.1970.1080p.BluRay.x264-[YTS.AM].mp4
   file_name: "The.Horror.Of.Frankenstein.1970.1080p.BluRay.x264-%5BYTS.AM%5D.mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
