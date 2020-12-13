@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Wuthering.Heights.1970.1080p.BluRay.x264"
-  comment: "Wuthering.Heights.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIUHY2MldOTUtuM0RSVm1xYVJ2RHlPV3kvd3VhZlhRb1FhU1krVUh3UmV0ZVdmUGpxNk1sTXNIdWgxM2hBc0RJaHZSeTZtTm1XZlRCRWlhem5QaVkrQStqZHVpTGYrNklTc1RUMDYrTzdYRkVHaUJvOVlER0F5TEtoWEVjakhqWVZLMGcxeXBGRllkWC9oaXhVRVMvQTNONUtaWVh4V3VkS01VYkEyTUtXcHpOeHM4WmN6c3ZHNDVuMG10bG1UaXZVZz09/Wuthering.Heights.1970.1080p.BluRay.x264-[YTS.AM].mp4
-  file_name: "Wuthering.Heights.1970.1080p.BluRay.x264-[YTS.AM].mp4"
+  name: "Wind.From.The.East.1970.1080p.BluRay.x264"
+  comment: "Wind.From.The.East.1970.1080p.BluRay.x264"
+  url: https://nl21.seedr.cc/ff_get/803850842/Wind.From.The.East.1970.1080p.BluRay.x264-[YTS.AM].mp4?st=OFYWqE1UTDFplKrR4_9dnA&e=1607964536
+  file_name: "Wind.From.The.East.1970.1080p.BluRay.x264-[YTS.AM].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
