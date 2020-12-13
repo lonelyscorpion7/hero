@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Two.Mules.For.Sister.Sara.1970.1080p.BluRay.x264"
-  comment: "Two.Mules.For.Sister.Sara.1970.1080p.BluRay.x264"
-  url: https://nl21.seedr.cc/ff_get/803905604/Two.Mules.For.Sister.Sara.1970.1080p.BluRay.x264-[YTS.AG].mp4?st=DTYx9SczGmRRcHxNXIpNaQ&e=1607968622
-  file_name: "Two.Mules.For.Sister.Sara.1970.1080p.BluRay.x264-[YTS.AG].mp4"
+  name: "Something.For.Everyone.1970.1080p.BluRay.x264"
+  comment: "Something.For.Everyone.1970.1080p.BluRay.x264"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFISVVsZzFmZ1grelE1ZFBrTFBLUmJLeG5qT0dnc0RDcW5nd0pyR3RaVkFaS2Y3V2hyZUpxWnF3dS9BVnFLcEUxT1pVVTJmMGZ1cXJKcEdSM2RKZjlzR2E4WGhFUUx1Rm9NT0J1NkRPUmI4ejc1bXdVT1hZZk0rR1VhdFVzT0x3RW1tYXFQcFRCUG9jZmNFZ3ZKcDRzbGNWQlBuVkE5dVp1QWNDbVdPTjU5MEV3L0NhRTc3bzc0Q3N0NEdNNXFlOHZoQT09/Something.For.Everyone.1970.1080p.BluRay.x264-[YTS.AG].mp4
+  file_name: "Something.For.Everyone.1970.1080p.BluRay.x264-[YTS.AG].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
