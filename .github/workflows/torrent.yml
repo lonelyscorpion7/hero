@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "And.Soon.The.Darkness.1970.1080p.BluRay.x264"
-  comment: "And.Soon.The.Darkness.1970.1080p.BluRay.x264"
-  url: https://doc-04-74-docs.googleusercontent.com/docs/securesc/lqephelp3ehdhfrs6ka9220p7liahudg/jbt3ee20511113shptimbrespfm5ald1/1607867850000/09670154100834795402/09670154100834795402/1IPPO--ODuAhY358Lqm6ZwY6dvRzTttmM?e=download&authuser=0
-  file_name: "And.Soon.The.Darkness.1970.1080p.BluRay.x264-[YTS.LT].mp4"
-  piece_size: 20 # Check the README.md for recommended piece size
+  name: "amy.1981"
+  comment: "amy.1981"
+  url: http://linkspremium.download/301D77C20/45.162.231.181/amy.1981.mkv
+  file_name: "amy.1981.mkv"
+  piece_size: 21 # Check the README.md for recommended piece size
       
 jobs:
   create:
