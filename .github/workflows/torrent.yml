@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Cockeyed.Cowboys.Of.Calico.County.1970.1080p.WEBRip.x264"
-  comment: "Cockeyed.Cowboys.Of.Calico.County.1970.1080p.WEBRip.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIRWZqYk1kNSsyR040VjloODJ3YnQ4V1pUNDlaMlltdVU2b0JaVnFJS0JUZEZHYklzekJMVnM4aytqazYwTWl0Q3hhWkRDOVJNbVp1eU5RczB3QlV0eVNtaWdBNUdtN0UyY0V0MHgwWmZtQWd4US9XMDlqV2VSdUQvR0ZseUpPTW0wVWUzNE5mSTB2VWVDenZ2dDRadlNyOTZ3OFR1MGxFdEtkWkZkMzJoOG9kR2dQSThjeGVlMCtwNWFyaVp5NkZuaVkzamRvL0czUTlTQXZSb2JreTllLzJjNU1iRFlENUpOS055YkdXNUxENQ==/Cockeyed.Cowboys.Of.Calico.County.1970.1080p.WEBRip.x264-[YTS.AM].mp4
-  file_name: "Cockeyed.Cowboys.Of.Calico.County.1970.1080p.WEBRip.x264-[YTS.AM].mp4"
+  name: "The.Nude.Vampire.1970.1080p.BluRay.x264"
+  comment: "The.Nude.Vampire.1970.1080p.BluRay.x264"
+  url: https://de13.seedr.cc/ff_get/803825406/The.Nude.Vampire.1970.1080p.BluRay.x264-[YTS.AM].mp4?st=dvI5oc1RpxHGr1nffU1ClQ&e=1607962028
+  file_name: "The.Nude.Vampire.1970.1080p.BluRay.x264-[YTS.AM].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
