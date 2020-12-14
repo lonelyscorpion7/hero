@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Scream.And.Scream.Again.1970.1080p.BluRay.x264"
-  comment: "Scream.And.Scream.Again.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIS0NKYjlvRlF5OXEzc3BKRVJxQWoyK0Y2UzMyRS90RW1LNVVqZm5leEc1YlgrbStoY2lzTzkrQjJtK093TGJabERzbkN4UUNRZnRyK3FkMC9qWTZESDMwdVpxcm5kMHVkcUEzT2Y1TnhjU0ROZjdrN2h5Z2VNMy8yR3EwQUJnbjRqRkYrZHNhU2JkN3NZcksxMmRGQVBNVVd0MkYrSm9vQWpPWEtmUHR0SkNsa1J6L0s2ei96S1dGbTRvS3VlZTR6UT09/Scream.And.Scream.Again.1970.1080p.BluRay.x264-[YTS.AM].mp4
-  file_name: "Scream.And.Scream.Again.1970.1080p.BluRay.x264-[YTS.AM].mp4"
+  name: "Bed.Board.1970.1080p.BluRay.x264.AAC"
+  comment: "Bed.Board.1970.1080p.BluRay.x264.AAC"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIQzZWK0tHUmtJQlpiZTcxaEN2aTNSYUxCNkJGRnp0QnNNdGF0WFdMV0dIOFByVyt2WEhLdWFtUW5RS1MwUTV3RlBnNTBidGlmcjZwNm9hOVBWVkQzZzR0YkYxMTNZNk51c1M5NnpaUCtvZmo2VEJMR3pTOWY0L25aRU1MRUYwUlZkT1grZ3dZWTI4c2RCWTBiWkU2dDZ1UWFnSndCMENUZC9zbHZMREJSSGxr/Bed.Board.1970.1080p.BluRay.x264.AAC-[YTS.MX].mp4
+  file_name: "Bed.Board.1970.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
