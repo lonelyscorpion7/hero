@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "That.Championship.Season.1982"
-  comment: "That.Championship.Season.1982"
-  url: http://45.162.231.181:3000/download/7defa5fa-9935-4d99-acad-ce0a42f35d07/that-championship-season-1982.mkv
-  file_name: "That.Championship.Season.1982.mkv"
+  name: "Repossessed.1990"
+  comment: "Repossessed.1990"
+  url: http://45.162.231.181:3000/download/26a71f6c-6a43-4b28-bb7a-993557270036/repossessed-1990.mkv
+  file_name: "Repossessed.1990.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
