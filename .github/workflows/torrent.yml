@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "MASH.1970.1080p.BluRay.x264"
-  comment: "MASH.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFITWJZWi9Kb1cyNFV6dTlNQXpPQVAzSkdKY04rS1dDcXdZYUN1OXlwVTZKVzQ2c1VISzZkb1N2bFJWVVYvTUVtaFJoUzAxZTlZbHh1ZXRpV3NHUC9QSk5wZlhqV05tZzV4T0lveFRsSWF4TDNEQk1WTEpNc2YyUm9ZWlJUaWpndmhRPT0=/MASH.1970.1080p.BluRay.x264.[YTS.AG].mp4
-  file_name: "MASH.1970.1080p.BluRay.x264.[YTS.AG].mp4"
+  name: "The.Vampire.Lovers.1970.1080p.BluRay.x264"
+  comment: "The.Vampire.Lovers.1970.1080p.BluRay.x264"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFITnhnOU80Zk5WZDFjdEh6d3dRRG0weThGUmtDQUxXeDFBakNPYWIrMWxKWVJ4UmlUS3B2VkpHNVlXNHg2ZzRHN1pnTVFvZko0SithYjZZZ1Q4cklzWkFaRXhTNXMxUjBGa2MyU0c2ZDFIOHdYeDcrZ0xmREhiR2FuMGtSSnQwb0l3TTdjZ1R1SjQxMW5MRkxkMEhqN2lzPQ==/The.Vampire.Lovers.1970.1080p.BluRay.x264.YIFY.mp4
+  file_name: "The.Vampire.Lovers.1970.1080p.BluRay.x264.YIFY.mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
