@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Tora!.Tora!.Tora!.1970.1080p.BluRay.x264"
-  comment: "Tora!.Tora!.Tora!.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIRE8rcmhQbHRFeXAvNDM0UGQwRWwzZHV5S2h6cUoyUWZkVkFpSUxyK0Y1ZVRWL1ZhSlZKaGljd0Iyam5LcnFaSmI1dytSRHk5Z0tjS1RpVm9ZVEJIR1VqR2pZTDdPaDJjZWdkSjFrOE9YOWN3VCtBNnhOVWxOZjBqaHhmZEFBbXZKZnF5VWR1a3VmTnJaa3FnOUZYRGI2Umt4T0ZBSHlCbmxIUW5neGp5RVFT/Tora!.Tora!.Tora!.1970.1080p.BluRay.x264-[YTS.AG].mp4
-  file_name: "Tora!.Tora!.Tora!.1970.1080p.BluRay.x264-[YTS.AG].mp4"
+  name: "Figures.In.A.Landscape.1970.1080p.BluRay.x264"
+  comment: "Figures.In.A.Landscape.1970.1080p.BluRay.x264"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIS1NFME1vUlJsZzRpQ05qVk9OenZjdjRiZmtxdCtJUFFTMHBvekhZeHQ4YnRJcjV4KzN2YUx1cW9QWTBWcldJb0J0WGU3UDZzOW1VNDhKNHRUTkZ4V1pMTFhaNXRFOUtqY2gyQ25oVWxiVjVFUDJPYWUzaWdZdVZ6cW96VTJSSDNNZU1COTJacWp4SitIWmNwWjV4UmFCc0ZsTDZsNnVUV2plRjhGRDJhK0RMNXVUV2M2WUh3czNCT1RlSXJ5SGhZZz09/Figures.In.A.Landscape.1970.1080p.BluRay.x264-[YTS.AG].mp4
+  file_name: "Figures.In.A.Landscape.1970.1080p.BluRay.x264-[YTS.AG].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
