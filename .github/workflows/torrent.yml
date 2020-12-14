@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Last.Samurai.2003.1080p.BrRip.x264.YIFY"
-  comment: "The.Last.Samurai.2003.1080p.BrRip.x264.YIFY"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFITnhnOU80Zk5WZDFjdEh6d3dRRG0weDB2aDVmalpBU2lUN21WeTFzY0xpZDY5YjJJTjRzVzFOVXgrL1htc2FKSkY0RzZ0ZitXMWRWSlcvV0hoR0J6cDJuaENWbUo0Mm15VHlBdndUWitpeHR1TUpJV3J5eHV5eWhnRE9ZNC9OTkxxam05VTIzdnFYQThuVVR2RUN2Z2NFPQ==/The.Last.Samurai.2003.1080p.BrRip.x264.YIFY.mp4
-  file_name: "The.Last.Samurai.2003.1080p.BrRip.x264.YIFY.mp4"
+  name: "Scream.And.Scream.Again.1970.1080p.BluRay.x264"
+  comment: "Scream.And.Scream.Again.1970.1080p.BluRay.x264"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIS0NKYjlvRlF5OXEzc3BKRVJxQWoyK0Y2UzMyRS90RW1LNVVqZm5leEc1YlgrbStoY2lzTzkrQjJtK093TGJabERzbkN4UUNRZnRyK3FkMC9qWTZESDMwdVpxcm5kMHVkcUEzT2Y1TnhjU0ROZjdrN2h5Z2VNMy8yR3EwQUJnbjRqRkYrZHNhU2JkN3NZcksxMmRGQVBNVVd0MkYrSm9vQWpPWEtmUHR0SkNsa1J6L0s2ei96S1dGbTRvS3VlZTR6UT09/Scream.And.Scream.Again.1970.1080p.BluRay.x264-[YTS.AM].mp4
+  file_name: "Scream.And.Scream.Again.1970.1080p.BluRay.x264-[YTS.AM].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
