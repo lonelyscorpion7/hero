@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Finders.Keepers.1984"
-  comment: "Finders.Keepers.1984"
-  url: http://45.162.231.181:3000/download/92bf4a18-8c8b-4edc-8d11-2be03c7d7ffd/finders-keepers-1984.mkv
-  file_name: "Finders.Keepers.1984.mkv"
+  name: "Island.Of.Blood.1982"
+  comment: "Island.Of.Blood.1982"
+  url: http://45.162.231.181:3000/download/745ca767-5f2a-4192-8158-18fd9d7847bd/island-of-blood-1982.mkv
+  file_name: "Island.Of.Blood.1982.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
