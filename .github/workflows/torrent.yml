@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Webcam Archive 29"
-  comment: "Webcam Archive 29"
-  url: https://RJB1981:RJB7581@claudia-marie.com/members/content//upload/020520webcam29/720p/020520webcam29.mp4
-  file_name: "Webcam Archive 29.mp4"
+  name: "Black Bull Breeding 9"
+  comment: "Black Bull Breeding 9"
+  url: https://RJB1981:RJB7581@claudia-marie.com/members/content//upload/012220blackbull9/720p/012220blackbull9.mp4
+  file_name: "Black Bull Breeding 9.mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
