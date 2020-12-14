@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "For.Love.or.Money.1993"
-  comment: "For.Love.or.Money.1993"
-  url: http://45.162.231.181:3000/download/5f2c352b-cf7f-4ea8-bf3f-e9e27e202633/for-love-or-money-1993.mkv
-  file_name: "For.Love.or.Money.1993.mkv"
+  name: "Tender.Loving.Care.1996"
+  comment: "Tender.Loving.Care.1996"
+  url: http://45.162.231.181:3000/download/27ee48ae-f362-44ab-9440-4c941c4480f4/tender-loving-care-1996.mkv
+  file_name: "Tender.Loving.Care.1996.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
