@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Figures.In.A.Landscape.1970.1080p.BluRay.x264"
-  comment: "Figures.In.A.Landscape.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIS1NFME1vUlJsZzRpQ05qVk9OenZjdjRiZmtxdCtJUFFTMHBvekhZeHQ4YnRJcjV4KzN2YUx1cW9QWTBWcldJb0J0WGU3UDZzOW1VNDhKNHRUTkZ4V1pMTFhaNXRFOUtqY2gyQ25oVWxiVjVFUDJPYWUzaWdZdVZ6cW96VTJSSDNNZU1COTJacWp4SitIWmNwWjV4UmFCc0ZsTDZsNnVUV2plRjhGRDJhK0RMNXVUV2M2WUh3czNCT1RlSXJ5SGhZZz09/Figures.In.A.Landscape.1970.1080p.BluRay.x264-[YTS.AG].mp4
-  file_name: "Figures.In.A.Landscape.1970.1080p.BluRay.x264-[YTS.AG].mp4"
+  name: "Beast.Of.Blood.1970.1080p.BluRay.x264.AAC"
+  comment: "Beast.Of.Blood.1970.1080p.BluRay.x264.AAC"
+  url: https://cdn.loadbt.com/a5d98591cc7d2dad139b235eaea0e15b8e88def3/Beast%20Of%20Blood%20%281970%29%20%5B1080p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D/Beast.Of.Blood.1970.1080p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4?sign=b0a3400d04f92b92f523e3c67877895ea2f64092&expires=1607994894&dl=1
+  file_name: "Beast.Of.Blood.1970.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
