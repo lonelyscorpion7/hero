@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264"
-  comment: "Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264"
-  url: https://de15.seedr.cc/ff_get/804107075/Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264-[YTS.AG].mp4?st=hXxpO5BCn0as47TzFFfy8A&e=1607998712
-  file_name: "Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264-[YTS.AG].mp4"
+  name: "Finders.Keepers.1984"
+  comment: "Finders.Keepers.1984"
+  url: http://45.162.231.181:3000/download/92bf4a18-8c8b-4edc-8d11-2be03c7d7ffd/finders-keepers-1984.mkv
+  file_name: "Finders.Keepers.1984.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
