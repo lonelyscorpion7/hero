@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Soldier.Blue.1970.1080p.BluRay.x264"
-  comment: "Soldier.Blue.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIUFBROWNyQ0x6aC9VaGY2VzZkQkEvTG5BMEh5bjR1VFdrVTMveHJOSzRvL3o2c0R6Q0RsNi9BWENNNDc5cUNtTS9MNjhlM2UwUzJoL0NNdGNKUHgvUlAyRFdsSzNkU2RlaUZQSnRPdUZhb004Q1pBUFF0T0ZpWDRhdjRqODR1RWRiSGMxcFIzaTROVExnYlBhQWI3K0F1OEhkTkZBY04zV1hPdFRDcCsyeGdR/Soldier.Blue.1970.1080p.BluRay.x264-[YTS.AM].mp4
-  file_name: "Soldier.Blue.1970.1080p.BluRay.x264-[YTS.AM].mp4"
+  name: "Hollywood Horror House (1970)"
+  comment: "Hollywood Horror House (1970)"
+  url: https://nl21.seedr.cc/get_zip_ngen/106368215/Hollywood%20Horror%20House%20(1970)%20[1080p]%20[BluRay]%20[YTS.MX].zip?st=QLrS_jwMvkz79DkPcUphFQ&e=1608022155
+  file_name: "Hollywood Horror House (1970) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
