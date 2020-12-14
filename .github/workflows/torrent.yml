@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Same.River.Twice.2003"
-  comment: "The.Same.River.Twice.2003"
-  url: http://45.162.231.181:3000/download/b633c11e-396b-4cd1-a97a-c58ad42de804/the-same-river-twice-2003.avi
-  file_name: "The.Same.River.Twice.2003.avi"
+  name: "The.Panther.Squad.1984"
+  comment: "The.Panther.Squad.1984"
+  url: http://45.162.231.181:3000/download/56c75787-b1a3-46d2-8af2-5a97e2971cf1/the-panther-squad-1984.mkv
+  file_name: "The.Panther.Squad.1984.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
