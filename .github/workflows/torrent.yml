@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Dream.Man.1995"
-  comment: "Dream.Man.1995"
-  url: http://45.162.231.181:3000/download/93648db1-aa4a-4712-87c2-150ff5be9b6e/dream-man-1995.mkv
-  file_name: "Dream.Man.1995.mkv"
+  name: "Christie.Malrys.Own.Double.Entry.2000"
+  comment: "Christie.Malrys.Own.Double.Entry.2000"
+  url: http://45.162.231.181:3000/download/1c499a14-a417-4353-a468-84c823ce0f30/christie-malrys-own-double-entry-2000.mkv
+  file_name: "Christie.Malrys.Own.Double.Entry.2000.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
