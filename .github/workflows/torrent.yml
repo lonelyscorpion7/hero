@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Scandalous.John.1971"
-  comment: "Scandalous.John.1971"
-  url: http://45.162.231.181:3000/download/2c57bdb2-f9c9-47be-978e-7429e800f1f0/scandalous-john-1971.mkv
-  file_name: "Scandalous.John.1971.mkv"
+  name: "For.Love.or.Money.1993"
+  comment: "For.Love.or.Money.1993"
+  url: http://45.162.231.181:3000/download/5f2c352b-cf7f-4ea8-bf3f-e9e27e202633/for-love-or-money-1993.mkv
+  file_name: "For.Love.or.Money.1993.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
