@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Terror.in.the.Mall.1998"
-  comment: "Terror.in.the.Mall.1998"
-  url: http://45.162.231.181:3000/download/8a83c67d-5162-4311-8a00-a69f11f13b4f/terror-in-the-mall-1998.mkv
-  file_name: "Terror.in.the.Mall.1998.mkv"
+  name: "Full.Exposure.The.Sex.Tapes.Scandal.1989"
+  comment: "Full.Exposure.The.Sex.Tapes.Scandal.1989"
+  url: http://45.162.231.181:3000/download/e18787b5-36f3-4a64-8761-631252665020/full-exposure-the-sex-tapes-scandal-1989.mkv
+  file_name: "Full.Exposure.The.Sex.Tapes.Scandal.1989.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
