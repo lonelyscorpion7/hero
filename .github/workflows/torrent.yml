@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Escort Breeding"
-  comment: "Escort Breeding"
-  url: https://RJB1981:RJB7581@claudia-marie.com/members/content//upload/100820escortbreeding/720p/100820escortbreeding.mp4
-  file_name: "Escort Breeding.mp4"
+  name: "A.Man.Called.Horse.1970.1080p.BluRay.x264.AAC5.1"
+  comment: "A.Man.Called.Horse.1970.1080p.BluRay.x264.AAC5.1"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFISXZpaU02NFBsNTBFZXVwakt2WWxvamVnb3lTelZJRVliVUc3UXdPd2hxeUZ2bHZvamw2OEZqOC9GeWVnZ0VhMWtHNGdCNzF2d0pQZzlWZS91akxtSHNLWjJXY3FReFpTM1VWTy9ncDg2Zktib3VBSy9FT2RzRTQrT0Y3ZE1zaGUwV0NHcm5CNkN6cGwxRkpldWlqS2dwdnY0bmNlVFZjRCtkN3MwYmRURUNCNWR3c2wwbGJoYmRqMFNWcGhiMFBwVHRrbS9nM1Z3eXN1cUdkeHV0VmFVQT0=/A.Man.Called.Horse.1970.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
+  file_name: "A.Man.Called.Horse.1970.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
