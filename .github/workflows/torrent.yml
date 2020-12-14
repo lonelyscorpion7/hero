@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Brewster.McCloud.1970.1080p.BluRay.x264"
-  comment: "Brewster.McCloud.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFISXh5L1VHMUJpMjhMbWZPR2hFNmFDQ0ZUSFlPN1NzSit5TWxoRnRkdDUxdlhVZDMyOUVrNXBuYU5hZEVZTFRhTHphNEtkTGVHbC9BSmw3MkFiczk0b2wxN00xcExFbWV6ak54cHpUVkJ4RnphYUI1QURTczhGZEdqTDhKSnFrdmNBeU1PckpRV2FFUFZYcWVkcklrTnF6dzkydHBMVHI5eklqY213RGpPTEhpdWZ0aTFSMGlJU1cwamJVVUxOMjBpZz09/Brewster.McCloud.1970.1080p.BluRay.x264-[YTS.AM].mp4
-  file_name: "Brewster.McCloud.1970.1080p.BluRay.x264-[YTS.AM].mp4"
+  name: "MASH.1970.1080p.BluRay.x264"
+  comment: "MASH.1970.1080p.BluRay.x264"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFITWJZWi9Kb1cyNFV6dTlNQXpPQVAzSkdKY04rS1dDcXdZYUN1OXlwVTZKVzQ2c1VISzZkb1N2bFJWVVYvTUVtaFJoUzAxZTlZbHh1ZXRpV3NHUC9QSk5wZlhqV05tZzV4T0lveFRsSWF4TDNEQk1WTEpNc2YyUm9ZWlJUaWpndmhRPT0=/MASH.1970.1080p.BluRay.x264.[YTS.AG].mp4
+  file_name: "MASH.1970.1080p.BluRay.x264.[YTS.AG].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
