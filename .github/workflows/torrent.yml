@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "In.Enemy.Country.1968"
-  comment: "In.Enemy.Country.1968"
-  url: http://45.162.231.181:3000/download/61811846-6047-4d81-84d1-f553d3bfde7b/in-enemy-country-1968.mkv
-  file_name: "In.Enemy.Country.1968.mkv"
+  name: "Terror.in.the.Mall.1998"
+  comment: "Terror.in.the.Mall.1998"
+  url: http://45.162.231.181:3000/download/8a83c67d-5162-4311-8a00-a69f11f13b4f/terror-in-the-mall-1998.mkv
+  file_name: "Terror.in.the.Mall.1998.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
