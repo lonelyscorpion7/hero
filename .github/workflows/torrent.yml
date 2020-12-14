@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "What.1972"
-  comment: "What.1972"
-  url: http://45.162.231.181:3000/download/4bf3eeaf-2d27-4c98-917e-0d54e92dd23e/what-1972.mkv
-  file_name: "What.1972.mkv"
+  name: "The.Legend.of.Alfred.Packer.1980"
+  comment: "The.Legend.of.Alfred.Packer.1980"
+  url: http://45.162.231.181:3000/download/88990206-b1a8-49ab-9a8d-3c0d15c956ab/the-legend-of-alfred-packer-1980.mkv
+  file_name: "The.Legend.of.Alfred.Packer.1980.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
