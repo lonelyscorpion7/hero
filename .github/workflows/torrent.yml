@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Something.For.Everyone.1970.1080p.BluRay.x264"
-  comment: "Something.For.Everyone.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFISVVsZzFmZ1grelE1ZFBrTFBLUmJLeG5qT0dnc0RDcW5nd0pyR3RaVkFaS2Y3V2hyZUpxWnF3dS9BVnFLcEUxT1pVVTJmMGZ1cXJKcEdSM2RKZjlzR2E4WGhFUUx1Rm9NT0J1NkRPUmI4ejc1bXdVT1hZZk0rR1VhdFVzT0x3RW1tYXFQcFRCUG9jZmNFZ3ZKcDRzbGNWQlBuVkE5dVp1QWNDbVdPTjU5MEV3L0NhRTc3bzc0Q3N0NEdNNXFlOHZoQT09/Something.For.Everyone.1970.1080p.BluRay.x264-[YTS.AG].mp4
-  file_name: "Something.For.Everyone.1970.1080p.BluRay.x264-[YTS.AG].mp4"
-  piece_size: 20 # Check the README.md for recommended piece size
+  name: "Tora!.Tora!.Tora!.1970.1080p.BluRay.x264"
+  comment: "Tora!.Tora!.Tora!.1970.1080p.BluRay.x264"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIRE8rcmhQbHRFeXAvNDM0UGQwRWwzZHV5S2h6cUoyUWZkVkFpSUxyK0Y1ZVRWL1ZhSlZKaGljd0Iyam5LcnFaSmI1dytSRHk5Z0tjS1RpVm9ZVEJIR1VqR2pZTDdPaDJjZWdkSjFrOE9YOWN3VCtBNnhOVWxOZjBqaHhmZEFBbXZKZnF5VWR1a3VmTnJaa3FnOUZYRGI2Umt4T0ZBSHlCbmxIUW5neGp5RVFT/Tora!.Tora!.Tora!.1970.1080p.BluRay.x264-[YTS.AG].mp4
+  file_name: "Tora!.Tora!.Tora!.1970.1080p.BluRay.x264-[YTS.AG].mp4"
+  piece_size: 21 # Check the README.md for recommended piece size
       
 jobs:
   create:
