@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Chisum.1970.1080p.BluRay.x264"
-  comment: "Chisum.1970.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIQVJabDZncmtJVW8yMzlFaEJGTU9KRFQ4NnhnQ2RHMTh4bGdlSmRmcGdGOTZqZUlvcko0K29pUmV5Kzc0QkdpU0Y1L2psK3Q4ZVVIOEF5UG9vS1JwcHFlRmpCeE5KYzdyano5ZGlkZHdWOER3cllnTThPYlpQVWw1TUpDT0xvWTM1WEc5a3IxUnd2amtKL2xhNXY1L3hjPQ==/Chisum.1970.1080p.BluRay.x264-[YTS.AG].mp4
-  file_name: "Chisum.1970.1080p.BluRay.x264-[YTS.AG].mp4"
+  name: "Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264"
+  comment: "Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264"
+  url: https://de15.seedr.cc/ff_get/804107075/Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264-[YTS.AG].mp4?st=hXxpO5BCn0as47TzFFfy8A&e=1607998712
+  file_name: "Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264-[YTS.AG].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
