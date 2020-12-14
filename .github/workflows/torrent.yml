@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Repossessed.1990"
-  comment: "Repossessed.1990"
-  url: http://45.162.231.181:3000/download/26a71f6c-6a43-4b28-bb7a-993557270036/repossessed-1990.mkv
-  file_name: "Repossessed.1990.mkv"
+  name: "Barefoot.in.the.Park.1967"
+  comment: "Barefoot.in.the.Park.1967"
+  url: http://45.162.231.181:3000/download/80731f0b-67ce-476a-901c-94e4a7445ad3/barefoot-in-the-park-1967.mkv
+  file_name: "Barefoot.in.the.Park.1967.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
