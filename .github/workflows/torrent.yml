@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Christie.Malrys.Own.Double.Entry.2000"
-  comment: "Christie.Malrys.Own.Double.Entry.2000"
-  url: http://45.162.231.181:3000/download/1c499a14-a417-4353-a468-84c823ce0f30/christie-malrys-own-double-entry-2000.mkv
-  file_name: "Christie.Malrys.Own.Double.Entry.2000.mkv"
+  name: "A.Gun.a.Car.a.Blonde.1997"
+  comment: "A.Gun.a.Car.a.Blonde.1997"
+  url: http://45.162.231.181:3000/download/0e6972a4-a8f3-47c5-b565-247796155ef3/a-gun-a-car-a-blonde-1997.mkv
+  file_name: "A.Gun.a.Car.a.Blonde.1997.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
