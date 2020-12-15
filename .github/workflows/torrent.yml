@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Four.Times.That.Night.1971.1080p.BluRay.x264.AAC"
-  comment: "Four.Times.That.Night.1971.1080p.BluRay.x264.AAC"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTd2UzTXIra25qVVdSL3MwUFFFV2twakFDUDZnOHh4UFdhSEdYTHhXY3lWc3ZhQmUzbG00c0VtZHc0ak44R253bHBCaFQyRDBvc1dRQ2w5RkNISEJ3cUdOMHJyNkJoaDFsNTNmdXc5WkFQNzJXak5vbnhjUkNHejY5TXBVZjdIdytJMTFFenN5UEgxc09uK2VuUDljVVBUQkdiN0VNenpCOEROL3dQR05pSjlmN2p5SEd4Sks0L2duVTlwS3ozTTJVaz0=/Four.Times.That.Night.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4
-  file_name: "Four.Times.That.Night.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
+  name: "The.Dunwich.Horror.1970.720p.BluRay.x264"
+  comment: "The.Dunwich.Horror.1970.720p.BluRay.x264"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeDJQakJhWVFWSUFZWGpEeWRleHhBT080TFY5NTFzRExYWm1DZlgzME8vVGxuVVRLNmM3TktMR3VUUzducExvWWpPb3NYaWx1VzF5Tmx3Q1pmU050cGtmUG9oZmswd1FRVzA2b1FZclZUcjkwUGZxR1o1QWM5SVoyNWJZL2JwVHFBQnZORDlQVTBtRStVVUxGYk9PcW8x/The.Dunwich.Horror.1970.720p.BluRay.x264-[YTS.AG].mp4
+  file_name: "The.Dunwich.Horror.1970.720p.BluRay.x264-[YTS.AG].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
