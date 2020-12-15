@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Wizard.of.Gore.1970.1080p.BluRay.x264.YIFY"
-  comment: "The.Wizard.of.Gore.1970.1080p.BluRay.x264.YIFY"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIQ2R6bEhOaU1BWU5WRDM3a2dkWGoxay9TL0c0bUhPQThvR3h6MjQrd0F5UVBGcFk5RDRNYURWcVJLU1NaWEN5NjgyZys1eEVrS0poUWY1WnBPYXlpOEZOZ002QmlKU2w4K0YvSlduTDlWU0s3a0xBaWlLY3NyQ244MTUzd2RjSHYyNkdpUGVndzNiUEI1ZWh4MDJDY0NzPQ==/The.Wizard.of.Gore.1970.1080p.BluRay.x264.YIFY.mp4
-  file_name: "The.Wizard.of.Gore.1970.1080p.BluRay.x264.YIFY.mp4"
+  name: "They.Call.Me.Mister.Tibbs!.1970.1080p.BluRay.x264"
+  comment: "They.Call.Me.Mister.Tibbs!.1970.1080p.BluRay.x264"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFITnhnOU80Zk5WZDFjdEh6d3dRRG0weERJVVlVM0VBVWp2UFB6S29PTHQ4Q2cwMGpmamVQeVI3RlIrZnQvUjhQaHB6dXFyZFQ5Nk93Sm1SRG40eXc3NEVWMXl6cUk2c1Zja0UxQVFNNVgyQi85TUd3ZE84RWYwam9Yd0RVM1VpUGtSSDJSYWl5T081MFJESk1pdlRYQlJ0aW5rQkV1eFV6OEdMVDl6cDhpYkszQWFtWWl3RTEramg1SzdXYitESFM4OTFRenVZaFFZNTNRZ20ybVhOc0NNQT0=/They.Call.Me.Mister.Tibbs!.1970.1080p.BluRay.x264-[YTS.AM].mp4
+  file_name: "They.Call.Me.Mister.Tibbs!.1970.1080p.BluRay.x264-[YTS.AM].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
