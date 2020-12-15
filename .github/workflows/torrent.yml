@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Private.Life.of.Sherlock.Holmes.1970.1080p.BluRay.x264"
-  comment: "The.Private.Life.of.Sherlock.Holmes.1970.1080p.BluRay.x264"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeC9sSldtdEdFSjhaLzIxYzJncE0rTGxnU2pMK0lLbWM0SEpGZHJtY2E4djE1TWxxTlU3MmJpQ1JNK3RramF3dy9DOFUyaTJxN1VWSVFBNFQ2SmlRc0V4QzVVc1FXRGtkSVpKQS8wL1BlUS9CUEVVV0lzNUNDVVhydkovTDVLRlVhNE5CZGtBUEl4ZU1LVC9YcXJ2N09obUxMc2txZFVMaGswRE15R2tuclUyTVk2bXhPVnJabVMrMVJ6Vlp4NEd5WT0=/The.Private.Life.of.Sherlock.Holmes.1970.1080p.BluRay.x264.YIFY.mp4
-  file_name: "The.Private.Life.of.Sherlock.Holmes.1970.1080p.BluRay.x264.YIFY.mp4"
+  name: "The.Boys.in.the.Band.1970.1080p.BluRay.x264"
+  comment: "The.Boys.in.the.Band.1970.1080p.BluRay.x264"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeU9WVHFtYnJPa2hRc0tzcFJ2Zy9YRDUzNkw0MzFEaGxCeDZXTkw1VmlTcnRJZU9saEVvVEFmdTlKKzNYelhSRVdTSDFLY3oraTdxcWJKcTB0T2JPellubVJ2L2haMngycEhhczZ4bmNPZi82bnJwVVF3ZzNldVNDSnljMXNLcys0RE5XbWxFVDRWWlAweHlYR2dHUW1z/The.Boys.in.the.Band.1970.1080p.BluRay.x264.YIFY.mp4
+  file_name: "The.Boys.in.the.Band.1970.1080p.BluRay.x264.YIFY.mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
