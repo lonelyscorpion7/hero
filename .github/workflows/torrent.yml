@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Whisper.Kill.1988"
-  comment: "Whisper.Kill.1988"
-  url: http://45.162.231.181:3000/download/40ef0fdc-845b-4148-b1a9-62bd4fe2fe03/whisper-kill-1988.mkv
-  file_name: "Whisper.Kill.1988.mkv"
+  name: "Three.Sisters.1970.720p.BluRay.x264.AAC"
+  comment: "Three.Sisters.1970.720p.BluRay.x264.AAC"
+  url: https://fr6.seedr.cc/ff_get/804779777/Three.Sisters.1970.720p.BluRay.x264.AAC-[YTS.MX].mp4?st=8x32VFEXT1AueSxUY-mKzA&e=1608091263
+  file_name: "Three.Sisters.1970.720p.BluRay.x264.AAC-[YTS.MX].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
