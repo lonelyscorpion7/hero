@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Boys.in.the.Band.1970.1080p.BluRay.x264"
-  comment: "The.Boys.in.the.Band.1970.1080p.BluRay.x264"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeU9WVHFtYnJPa2hRc0tzcFJ2Zy9YRDUzNkw0MzFEaGxCeDZXTkw1VmlTcnRJZU9saEVvVEFmdTlKKzNYelhSRVdTSDFLY3oraTdxcWJKcTB0T2JPellubVJ2L2haMngycEhhczZ4bmNPZi82bnJwVVF3ZzNldVNDSnljMXNLcys0RE5XbWxFVDRWWlAweHlYR2dHUW1z/The.Boys.in.the.Band.1970.1080p.BluRay.x264.YIFY.mp4
-  file_name: "The.Boys.in.the.Band.1970.1080p.BluRay.x264.YIFY.mp4"
+  name: "Performance.1970.1080p.BluRay.x264"
+  comment: "Performance.1970.1080p.BluRay.x264"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTejdSZmJwMHllOUMyQzhsbEdhNThQWGdSUWN0MFg2UllJMlhubzZzU0dWUjVENFFqWTJPU1VZc1A1eG43Q2gwaTVhV1VZM2RFSGNhdWRqL295ampNQ2FMRmZMVnVidkxsaWVJVGREL0lOdEZleGZWSlNWTy8yQ0orMFp0YUVta1lJPQ==/Performance.1970.1080p.BluRay.x264.YIFY.mp4
+  file_name: "Performance.1970.1080p.BluRay.x264.YIFY.mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
