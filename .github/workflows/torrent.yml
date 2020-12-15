@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.House.that.Dripped.Blood.1971"
-  comment: "The.House.that.Dripped.Blood.1971"
-  url: http://45.162.231.181:3000/download/9d31f2c4-76f6-43f0-bb4d-f68c4733fed4/the-house-that-dripped-blood-1971.mkv
-  file_name: "The.House.that.Dripped.Blood.1971.mkv"
+  name: "The.Rainbow.Thief.1990"
+  comment: "The.Rainbow.Thief.1990"
+  url: http://45.162.231.181:3000/download/e2d1c4ec-99e9-4984-a116-44eb17b9bfef/the-rainbow-thief-1990.mkv
+  file_name: "The.Rainbow.Thief.1990.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
