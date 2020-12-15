@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Hercules.in.New.York.1969.1080p.BluRay.x264"
-  comment: "Hercules.in.New.York.1969.1080p.BluRay.x264"
-  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIRWUyVXFDTnVUZExnMnpaa2NQNkxqSEVRM1F5TTF2aGhCN05oalFvNy9zSGxaQTZvZE8xTWwvRi9GbXVNQ3pCNkVFYTFlbCtNNDZtSDJFZjAzUklidnpMT3loNldxMkhDTXNUTGxzNHNTcUd1N1RJb1RxWTRUS2ZaVURRNVJsOTRZdFJka1h2QXhKbURSS3ZCZ09iWXNJcEQ1b3FmbWQ2TmtrbzRySUltdGtH/Hercules.in.New.York.1969.1080p.BluRay.x264.YIFY.mp4
-  file_name: "Hercules.in.New.York.1969.1080p.BluRay.x264.YIFY.mp4"
+  name: "Beneath.the.Planet.of.the.Apes.1970.1080p.BrRip.x264"
+  comment: "Beneath.the.Planet.of.the.Apes.1970.1080p.BrRip.x264"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTejB0T3RwdWsvU1A2aStuajNMWGZ4UTg0QTMwbmJjWUI3Q0tnZitmaW5ZQytPT29jN2E2Q2xleEIwazFGeitidlBmb1ViTVErL0pTMTAwdzFpcmNDMGVheWV2VkdBTkt4RFRReXp3NjJnc09RZDlGdElUOFpmczc5akdmUGVZRUdScVpVdEJ4dk5XVUljdjVMdzZHK1ZaRGJKT0R1UjNDUkYyMzV2SnArejhGZz09/Beneath.the.Planet.of.the.Apes.1970.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+  file_name: "Beneath.the.Planet.of.the.Apes.1970.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
