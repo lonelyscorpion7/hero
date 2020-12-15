@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Big.Boss.1971.1080p.BluRay.x264.AAC"
-  comment: "The.Big.Boss.1971.1080p.BluRay.x264.AAC"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeEV3bXdnYlBvSHJQblVUdXh4b0psdEN2RFBFVUJXUTc4UVhXTXZCUGQzT0h3dVV5bDBNUVdYOFpHWDhoTUV2L0RZa0N4eDk3RTNQSHAwR1BHMTdtdXgyRVF3eStpcVFRNGdaNnozRThLWlc1bUQweGViN2tjNythRm53Yjg3SHJrSHd3RktyS1BrdGhCOFFDKzVEYTFu/The.Big.Boss.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4
-  file_name: "The.Big.Boss.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
+  name: "Four.Times.That.Night.1971.1080p.BluRay.x264.AAC"
+  comment: "Four.Times.That.Night.1971.1080p.BluRay.x264.AAC"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTd2UzTXIra25qVVdSL3MwUFFFV2twakFDUDZnOHh4UFdhSEdYTHhXY3lWc3ZhQmUzbG00c0VtZHc0ak44R253bHBCaFQyRDBvc1dRQ2w5RkNISEJ3cUdOMHJyNkJoaDFsNTNmdXc5WkFQNzJXak5vbnhjUkNHejY5TXBVZjdIdytJMTFFenN5UEgxc09uK2VuUDljVVBUQkdiN0VNenpCOEROL3dQR05pSjlmN2p5SEd4Sks0L2duVTlwS3ozTTJVaz0=/Four.Times.That.Night.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4
+  file_name: "Four.Times.That.Night.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
