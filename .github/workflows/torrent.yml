@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Bagdad.1949"
-  comment: "Bagdad.1949"
-  url: http://45.162.231.181:3000/download/36ebc6e1-25f9-4cc7-8328-560574698abf/bagdad-1949.mkv
-  file_name: "Bagdad.1949.mkv"
+  name: "Whisper.Kill.1988"
+  comment: "Whisper.Kill.1988"
+  url: http://45.162.231.181:3000/download/40ef0fdc-845b-4148-b1a9-62bd4fe2fe03/whisper-kill-1988.mkv
+  file_name: "Whisper.Kill.1988.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
