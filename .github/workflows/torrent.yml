@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Memorial.Day.1998"
-  comment: "Memorial.Day.1998"
-  url: http://45.162.231.181:3000/download/b99ddc46-bf04-464d-8d4b-84f4a5931f20/memorial-day-1998.mkv
-  file_name: "Memorial.Day.1998.mkv"
+  name: "Samurai.Vampire.Bikers.from.Hell.1992"
+  comment: "Samurai.Vampire.Bikers.from.Hell.1992"
+  url: http://45.162.231.181:3000/download/e1a62d28-66ee-423c-a596-1ad35ba22779/samurai-vampire-bikers-from-hell-1992.avi
+  file_name: "Samurai.Vampire.Bikers.from.Hell.1992.avi"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
