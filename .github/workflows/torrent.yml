@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Three.Sisters.1970.720p.BluRay.x264.AAC"
-  comment: "Three.Sisters.1970.720p.BluRay.x264.AAC"
-  url: https://fr6.seedr.cc/ff_get/804779777/Three.Sisters.1970.720p.BluRay.x264.AAC-[YTS.MX].mp4?st=8x32VFEXT1AueSxUY-mKzA&e=1608091263
-  file_name: "Three.Sisters.1970.720p.BluRay.x264.AAC-[YTS.MX].mp4"
+  name: "Wheres.Poppa.1970.1080p.BluRay.x264"
+  comment: "Wheres.Poppa.1970.1080p.BluRay.x264"
+  url: https://fr6.seedr.cc/ff_get/804768114/Wheres.Poppa.1970.1080p.BluRay.x264-[YTS.AG].mp4?st=HEeWzq-42YIMJ_AO6hX3bw&e=1608091366
+  file_name: "Wheres.Poppa.1970.1080p.BluRay.x264-[YTS.AG].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
