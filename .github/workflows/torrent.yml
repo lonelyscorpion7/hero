@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Black.Cat.1989"
-  comment: "The.Black.Cat.1989"
-  url: http://45.162.231.181:3000/download/f06b9b74-5880-4439-ac9f-6a0762c5fe0d/the-black-cat-1989.mkv
-  file_name: "The.Black.Cat.1989.mkv"
+  name: "Lion.Strike.1994"
+  comment: "Lion.Strike.1994"
+  url: http://45.162.231.181:3000/download/e958e327-cfbf-48a1-b877-1be30c9bf1d6/lion-strike-1994.mkv
+  file_name: "Lion.Strike.1994.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
