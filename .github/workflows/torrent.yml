@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Mister.Frost.1990"
-  comment: "Mister.Frost.1990"
-  url: http://45.162.231.181:3000/download/f8f5cef8-2284-479f-8c0d-ce3d52b62a9b/mister-frost-1990.mkv
-  file_name: "Mister.Frost.1990.mkv"
+  name: "A.Wing.and.a.Prayer.1998"
+  comment: "A.Wing.and.a.Prayer.1998"
+  url: http://45.162.231.181:3000/download/7f46a8ba-2c89-4c86-a984-2c811475e120/a-wing-and-a-prayer-1998.mkv
+  file_name: "A.Wing.and.a.Prayer.1998.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
