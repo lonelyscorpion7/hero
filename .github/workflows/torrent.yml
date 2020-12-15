@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Opposite.Sex.1956"
-  comment: "The.Opposite.Sex.1956"
-  url: http://45.162.231.181:3000/download/b178b842-16f6-49e3-8e48-9528be502c83/the-opposite-sex-1956.mkv
-  file_name: "The.Opposite.Sex.1956.mkv"
+  name: "A.Little.Romance.1979"
+  comment: "A.Little.Romance.1979"
+  url: http://45.162.231.181:3000/download/f3c79e94-fde7-4c10-9c23-ac4e8d330da7/a-little-romance-1979.mkv
+  file_name: "A.Little.Romance.1979.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
