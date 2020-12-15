@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Cisco.Pike.1971.1080p.BluRay.x264.AAC"
-  comment: "Cisco.Pike.1971.1080p.BluRay.x264.AAC"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTem51WG9ReDVmVUVkZXFHbzJsL3JSY2xNY3Fqdk1lOElGMVdMMERxaFFLNGd3NUllTG9aTm1DdWJjTHRaYytQTWRBWmFWTlAvNWQwWmZ6eTNmSjhXaFBaQUtybU5JWFhjTC9rWUh0OWdYRHhHZ3ZGNE53WDJ1b2FnQ1lNUWlWcVMvMVI2LzNhVDlTODAyTks5cERxcERR/Cisco.Pike.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4
-  file_name: "Cisco.Pike.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
+  name: "The.Decameron.1971.1080p.BluRay.x264.AAC"
+  comment: "The.Decameron.1971.1080p.BluRay.x264.AAC"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeSt2RmR0M1NjSllweUVMclQ3M2lGeEVCaDVOQTJLQ0Y2ZE1sanhScU0zdkFmMHJSdkIvNVBqTFk4ZDlrbFZEKzVnb1QwTUcrSEZCZlFmK3FMMWZueFZqKzVSNGdXeUg3ZlJsWGZsNEFCRllJbjZCWE9UK2VVd2RQaUxVUFgvbEhLZWFEa0p2ZXROdGdhZGJSTzFFYnIzT2pKTml2a0hSVjdyc0NpL29Sbko0UT09/The.Decameron.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4
+  file_name: "The.Decameron.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
