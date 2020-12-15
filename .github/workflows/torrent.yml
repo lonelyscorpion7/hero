@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Target.1979"
-  comment: "Target.1979"
-  url: http://45.162.231.181:3000/download/4304c74d-bf28-4adf-b0db-1155351506b4/target-1979.mkv
-  file_name: "Target.1979.mkv"
+  name: "Mister.Frost.1990"
+  comment: "Mister.Frost.1990"
+  url: http://45.162.231.181:3000/download/f8f5cef8-2284-479f-8c0d-ce3d52b62a9b/mister-frost-1990.mkv
+  file_name: "Mister.Frost.1990.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
