@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Carpetbaggers.1964"
-  comment: "The.Carpetbaggers.1964"
-  url: http://45.162.231.181:3000/download/7dde51c4-94e2-486c-8136-dd9d2c0a5317/the-carpetbaggers-1964.mkv
-  file_name: "The.Carpetbaggers.1964.mkv"
+  name: "The.Black.Cat.1989"
+  comment: "The.Black.Cat.1989"
+  url: http://45.162.231.181:3000/download/f06b9b74-5880-4439-ac9f-6a0762c5fe0d/the-black-cat-1989.mkv
+  file_name: "The.Black.Cat.1989.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
