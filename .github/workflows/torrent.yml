@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Warriors.1979"
-  comment: "The.Warriors.1979"
-  url: http://45.162.231.181:3000/download/191e326c-f999-4421-9bd3-288bcec1d6dd/the-warriors-1979.mkv
-  file_name: "The.Warriors.1979.mkv"
+  name: "Smithereens.1982"
+  comment: "Smithereens.1982"
+  url: http://45.162.231.181:3000/download/dcff243a-8519-452e-b31b-44734972a6a0/smithereens-1982.mkv
+  file_name: "Smithereens.1982.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
