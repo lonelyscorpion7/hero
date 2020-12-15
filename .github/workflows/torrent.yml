@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Rainbow.Thief.1990"
-  comment: "The.Rainbow.Thief.1990"
-  url: http://45.162.231.181:3000/download/e2d1c4ec-99e9-4984-a116-44eb17b9bfef/the-rainbow-thief-1990.mkv
-  file_name: "The.Rainbow.Thief.1990.mkv"
+  name: "Target.1979"
+  comment: "Target.1979"
+  url: http://45.162.231.181:3000/download/4304c74d-bf28-4adf-b0db-1155351506b4/target-1979.mkv
+  file_name: "Target.1979.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
