@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Return.to.Justice.1990"
-  comment: "Return.to.Justice.1990"
-  url: http://45.162.231.181:3000/download/41202f98-b360-4995-b806-46d08f851a0a/return-to-justice-1990.mkv
-  file_name: "Return.to.Justice.1990.mkv"
+  name: "Light.Years.Away.1981"
+  comment: "Light.Years.Away.1981"
+  url: http://45.162.231.181:3000/download/0f10fcad-b688-47eb-8fbd-c0506275b0ee/light-years-away-1981.mkv
+  file_name: "Light.Years.Away.1981.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
