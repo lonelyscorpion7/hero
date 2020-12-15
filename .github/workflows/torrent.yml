@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Take.A.Girl.Like.You.1970.1080p.BluRay.x264"
-  comment: "Take.A.Girl.Like.You.1970.1080p.BluRay.x264"
-  url: https://de12.seedr.cc/ff_get/804780708/Take.A.Girl.Like.You.1970.1080p.BluRay.x264-[YTS.AM].mp4?st=2_e0V-hLlXepiaPdIFQ1lw&e=1608091385
-  file_name: "Take.A.Girl.Like.You.1970.1080p.BluRay.x264-[YTS.AM].mp4"
+  name: "The.Wizard.of.Gore.1970.1080p.BluRay.x264.YIFY"
+  comment: "The.Wizard.of.Gore.1970.1080p.BluRay.x264.YIFY"
+  url: https://dlsvfree.sonicbit.net/file/dl2/aWgvMUZ4WnlKVnlKcURnYkY2RUFIQ2R6bEhOaU1BWU5WRDM3a2dkWGoxay9TL0c0bUhPQThvR3h6MjQrd0F5UVBGcFk5RDRNYURWcVJLU1NaWEN5NjgyZys1eEVrS0poUWY1WnBPYXlpOEZOZ002QmlKU2w4K0YvSlduTDlWU0s3a0xBaWlLY3NyQ244MTUzd2RjSHYyNkdpUGVndzNiUEI1ZWh4MDJDY0NzPQ==/The.Wizard.of.Gore.1970.1080p.BluRay.x264.YIFY.mp4
+  file_name: "The.Wizard.of.Gore.1970.1080p.BluRay.x264.YIFY.mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
