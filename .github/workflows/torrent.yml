@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Light.Years.Away.1981"
-  comment: "Light.Years.Away.1981"
-  url: http://45.162.231.181:3000/download/0f10fcad-b688-47eb-8fbd-c0506275b0ee/light-years-away-1981.mkv
-  file_name: "Light.Years.Away.1981.mkv"
+  name: "Bagdad.1949"
+  comment: "Bagdad.1949"
+  url: http://45.162.231.181:3000/download/36ebc6e1-25f9-4cc7-8328-560574698abf/bagdad-1949.mkv
+  file_name: "Bagdad.1949.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
