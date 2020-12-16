@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Breaking.Surface.2020.720p.BluRay.800MB.x264"
-  comment: "Breaking.Surface.2020.720p.BluRay.800MB.x264"
-  url: https://www.seedr.cc/zip/106516099?st=c32984e2d80bd5450aba25393afb6be68a401ad97b0ee32eebe49127cf41fe1c&e=1608150132
-  file_name: "Breaking.Surface.2020.720p.BluRay.800MB.x264-GalaxyRG[TGx].zip"
+  name: "The.Expanse.S05E02.720p.WEB.x265"
+  comment: "The.Expanse.S05E02.720p.WEB.x265"
+  url: https://nl22.seedr.cc/ff_get/805571584/The.Expanse.S05E02.720p.WEB.x265-MiNX.mkv?st=0OLAJaR-DJeGyshpZ9G2Ag&e=1608194894
+  file_name: "The.Expanse.S05E02.720p.WEB.x265-MiNX.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
