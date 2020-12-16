@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Harold And Maude (1971)"
-  comment: "Harold And Maude (1971)"
-  url: https://de14.seedr.cc/get_zip_ngen/106548688/Harold%20And%20Maude%20(1971)%20[BluRay]%20[1080p]%20[YTS.AM].zip?st=_RBYGEgMcG-whfrRUd_RsA&e=1608225198
-  file_name: "Harold And Maude (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Assignment Terror (1970)"
+  comment: "Assignment Terror (1970)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/cFR2K3ZJRXVXVVphaXJpYTBDU0FkSVlJb0NKUnB6MjFEV25WL1ZRTGp3Skk3SHhjY09EanhXSmhra2l2MGMxU0ExOEtlQVB3K1ZmS0RKbWMrQVJIbkE9PQ==/CBDFF3C00FA5CC7EE3469A834406B31B173A4ECB/Assignment%20Terror%20(1970)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Assignment Terror (1970) [1080p] [BluRay] [YTS.MX].zip.zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
