@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Carnal Knowledge (1971)"
-  comment: "Carnal Knowledge (1971)"
-  url: https://www.seedr.cc/zip/106540452?st=73c9d682b6ea089aa6593a187a1ed2236b66c20f52bb81d09f3c508c5cac7f34&e=1608175231
-  file_name: "Carnal Knowledge (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Confessions Of A Police Captain (1971)"
+  comment: "Confessions Of A Police Captain (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/MFY1T3RCZDh2VC9uU1QwejFoNEJQR3JWQ0RkSElEdHFROUZxcmJCeWVPcnJKaTFzQ0VBZm01WDB6KzJ6Qk56TGprOHFHdVBidGljTklpOHBKWFlKd1l1a2JBMEtpbkhoK3pxcVB6OG9rK1U9/196C7C1A5B793B3211B87566C8B1D2B9AEA503D8/Confessions%20Of%20A%20Police%20Captain%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "Confessions Of A Police Captain (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
