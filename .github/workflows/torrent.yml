@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Le.Mans.1971.1080p.BluRay.x264"
-  comment: "Le.Mans.1971.1080p.BluRay.x264"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTd0VkR2NpSXN3NXFyOVNvN3dUSkpFNFd4aUJxYjNoeDduOFBQV21ScW9xeHYza3Q1bjljUEdZVm5xRGZvS2ZZN1JLR3BUZ2hkeG5PT0FZWk5VZjNGTkQwNzZPM2ZiMHRldDVYWDNCVkptQlM2WXQrL09LTGl3NVBXZERmRG1vVHFKOHMrblkwbXNxNHdFOG5Kd2FpMWt4/Le.Mans.1971.1080p.BluRay.x264-[YTS.AM].mp4
-  file_name: "Le.Mans.1971.1080p.BluRay.x264-[YTS.AM].mp4"
+  name: "The.Last.Picture.Show.1971.1080p.BluRay.x264.AAC"
+  comment: "The.Last.Picture.Show.1971.1080p.BluRay.x264.AAC"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeTJWVkpXM3BKbUJrNUNlcjRFMmJWeGdDWTdGbURUSnd1Ny9wQUIwZTBzQmhOSlNQNkxXRnJ5dHRtNkNxNWRma2pmS3hhR1k1TkJmMk1ITm9hbUQrRmZCMVJuU1Y4bUppNXJ3SHpNQ1FpSmozWlpZeHRGYkpkV3JxYTh0QjZNOUFNWGl3cXFueHpPRWkveTdCRVF2YlBRTXRxOHdsZlpRT3U2RGt1UUtsSit2NEFKVG5NQzlsVm1kWVI4TlhjWnRhMD0=/The.Last.Picture.Show.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4
+  file_name: "The.Last.Picture.Show.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
