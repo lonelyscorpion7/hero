@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The Last Movie (1971)"
-  comment: "The Last Movie (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/UEJOQitCUDlKYURTSlJEeEUzdXVla3A3MDZwVWMxdlNvOXF3Njc0dlY5QWd6eDlabXJld0cxbTNLaS81TjlCVCswdm9DQ0FvVmpUWkQ0S09PS05Wa0E9PQ==/1D4C2148495F0A811235C42F5EA31233047CC984/The%20Last%20Movie%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "The Last Movie (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Harold And Maude (1971)"
+  comment: "Harold And Maude (1971)"
+  url: https://de14.seedr.cc/get_zip_ngen/106548688/Harold%20And%20Maude%20(1971)%20[BluRay]%20[1080p]%20[YTS.AM].zip?st=_RBYGEgMcG-whfrRUd_RsA&e=1608225198
+  file_name: "Harold And Maude (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
