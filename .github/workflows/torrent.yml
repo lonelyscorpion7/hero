@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Death In Venice (1971)"
-  comment: "Death In Venice (1971)"
-  url: https://fr7.seedr.cc/get_zip_ngen/106541827/Death%20In%20Venice%20(1971)%20[BluRay]%20[1080p]%20[YTS.AM].zip?st=OQ72fhmkr7r-VhR8YgbW2w&e=1608219593
-  file_name: "Death In Venice (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Willard (1971)"
+  comment: "Willard (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/Zks3WUxBNklON3Bwd1pJcEJodkhaRE0xRTQ0d01IaUhhSno2YnQzSVBCekZoZGVXZFVEdERlaERGcHBML3RVTHVUY2FzSVpaOVdodkJUdWt5OGxJc0E9PQ==/83EA2874CB0550F477004BCE043668FDAC007EC5/Willard%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "Willard (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
