@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "NeXt.2020.S01E07.WEB.x264"
-  comment: "NeXt.2020.S01E07.WEB.x264"
-  url: https://dlsv6.sonicbit.net/dl/zip2/Q3VJSzduaTdjTWtOYWVuck9lMXUwSkN5dlhiNHR0N3F4K0E3R1cvZ28vc1NpL3NZTG00WnY0SGM0OTFRaklkbGFYUGI1L2JaV2pCU1N1bWY0d2VHWWc9PQ==/6A8SG9A6G87AS78G6/NeXt.2020.S01E07.WEB.x264-PHOENiXTGx.zip
-  file_name: "NeXt.2020.S01E07.WEB.x264-PHOENiX[TGx].zip"
+  name: "Zaat (1971)"
+  comment: "Zaat (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/TGdxK0M1YUJ6SUQ1ME10aVJxYzFQWVpuL0V0cXlLaTBrNVVrdEx6NG8vQTVIbXp2U0RRWmh5aDFVL1lZVjZCVDVoQXF1eUt0L2loU1B3Y0hzbkMxQ3c9PQ==/6A8SG9A6G87AS78G6/Zaat%20(1971)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Zaat (1971) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
