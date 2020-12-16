@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Zaat (1971)"
-  comment: "Zaat (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/TGdxK0M1YUJ6SUQ1ME10aVJxYzFQWVpuL0V0cXlLaTBrNVVrdEx6NG8vQTVIbXp2U0RRWmh5aDFVL1lZVjZCVDVoQXF1eUt0L2loU1B3Y0hzbkMxQ3c9PQ==/6A8SG9A6G87AS78G6/Zaat%20(1971)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "Zaat (1971) [1080p] [BluRay] [YTS.MX].zip"
+  name: "Lawman (1971)"
+  comment: "Lawman (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/N0xSUWRVM3Z6QUwrWDRyNUtHZXBKOENpdEhGK2ZPdHVCUUJhbDZCV2RML1lkajZ2TXdHMG1RWVpSYXNyUVMybXJLemQxVmtSeDcvUmhqSTBCZlloa2c9PQ==/AF47EAC5D86A5E838F43FF0077196B9E35B904A5/Lawman%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "Lawman (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
