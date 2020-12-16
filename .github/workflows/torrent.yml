@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The Zodiac Killer (1971)"
-  comment: "The Zodiac Killer (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/amJKcXp5MWNhYVJCRFZYTEQ4cVJXbEg5a1VEM0QvbFQzUjFLeTJ6WWlJaXExRkkyU3JTN3IyQU13QXUxSUkvRkNvaUVxSnpHaHFEUm9yOCtpU25YTXc9PQ==/6A8SG9A6G87AS78G6/The%20Zodiac%20Killer%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "The Zodiac Killer (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "The Brotherhood Of Satan (1971)"
+  comment: "The Brotherhood Of Satan (1971)"
+  url: https://nl35.seedr.cc/get_zip_ngen/106537392/The%20Brotherhood%20Of%20Satan%20(1971)%20[BluRay]%20[1080p]%20[YTS.AM].zip?st=QYShGD2iwvf3MIb3f7V7qA&e=1608215788
+  file_name: "The Brotherhood Of Satan (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
