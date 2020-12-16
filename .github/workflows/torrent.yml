@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Trinity Is Still My Name (1971)"
-  comment: "Trinity Is Still My Name (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/QnFMdjl1c2g1MWttVkk5a0E5Ynl4U1p4YTc4bTRDOHdVUGVDWmFNNnVFNXVLVU96TTlPZjA4T0xnWXl5MDE3azh4bmFIekNjMXNQYlJiNTNtWFhncjI2dDRQK25CZVdvTEZWQUFqOUw1UW89/DB0F9B94BE3F07A8FF5AA3D68A0AFDCE812533D4/Trinity%20Is%20Still%20My%20Name%20(1971)%20BluRay%20[720p]%20[YTS.AM].zip
-  file_name: "Trinity Is Still My Name (1971) [BluRay] [720p] [YTS.AM].zip"
+  name: "The Brotherhood Of Satan (1971)"
+  comment: "The Brotherhood Of Satan (1971)"
+  url: https://nl20.seedr.cc/get_zip_ngen/106546145/The%20Brotherhood%20Of%20Satan%20(1971)%20[BluRay]%20[1080p]%20[YTS.AM].zip?st=WOXkx0JP8uyJ1sQtN3ox4w&e=1608223142
+  file_name: "The Brotherhood Of Satan (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
