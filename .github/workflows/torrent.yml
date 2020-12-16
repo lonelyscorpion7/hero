@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "In.The.Eye.Of.The.Hurricane.1971.1080p.BluRay.x264"
-  comment: "In.The.Eye.Of.The.Hurricane.1971.1080p.BluRay.x264"
-  url: https://fr10.seedr.cc/ff_get/805389162/In.The.Eye.Of.The.Hurricane.1971.1080p.BluRay.x264-[YTS.LT].mp4?st=im9F2hWvii4d8zTceLkRmw&e=1608164541
-  file_name: "In.The.Eye.Of.The.Hurricane.1971.1080p.BluRay.x264-[YTS.LT].mp4"
+  name: "Von.Richthofen.And.Brown.1971.1080p.BluRay.x264.AAC"
+  comment: "Von.Richthofen.And.Brown.1971.1080p.BluRay.x264.AAC"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTd2Fyd2pRSndKRFhyL2doanYzUlpLUG1WTnFuenNQSm5wY083YjdvL01KSEIveWNXUEFvZ3Yvd2NXTWpUUFRkbnJqUEZGTFBmdEtFUy9SSytBUTRoOEd4Rjg3c0tUSXlKaldpOE84Y2dQZDJ5VlRnRGdlNTY5cHMzc3FNZXJ5MVhWLzEveEFyTm5tWVYzT3RySHRNT3cybGVIcGF5dDRvS25NSzl0Y3BzU0VXYW41TGt0WmRDY2Jvek1YZEFCVTJoWT0=/Von.Richthofen.And.Brown.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4
+  file_name: "Von.Richthofen.And.Brown.1971.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
