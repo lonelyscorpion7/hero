@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Roy.Colt.Winchester.Jack.1970.1080p.BluRay.x264.AAC"
-  comment: "Roy.Colt.Winchester.Jack.1970.1080p.BluRay.x264.AAC"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTelFyVFlRODB5Y0laaXAxeDB3Q2U2UXpWQTZ5Z1llVTBEZ05TcWppU1FVYnA0VWJUd0VlWmxUdEcyWG1kaW9iaWJZZWZMZGJRTUI4RGhEQTFoNjNTekRSYXNIUnpjdi96N3hhMUpkOWNNMFdaNmNPdUJRcjdDek9WeGptbjlkVFU0cTNnMktVMWEveEIxMHRkR3JJMU94SW93MjUvK0sxa0ZldkFOMDN0SWx5NVMwNzhwUW9Bb2xxeEFMQWJjUkJQdz0=/Roy.Colt.Winchester.Jack.1970.1080p.BluRay.x264.AAC-[YTS.MX].mp4
-  file_name: "Roy.Colt.Winchester.Jack.1970.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
+  name: "In.The.Eye.Of.The.Hurricane.1971.1080p.BluRay.x264"
+  comment: "In.The.Eye.Of.The.Hurricane.1971.1080p.BluRay.x264"
+  url: https://fr10.seedr.cc/ff_get/805389162/In.The.Eye.Of.The.Hurricane.1971.1080p.BluRay.x264-[YTS.LT].mp4?st=im9F2hWvii4d8zTceLkRmw&e=1608164541
+  file_name: "In.The.Eye.Of.The.Hurricane.1971.1080p.BluRay.x264-[YTS.LT].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
