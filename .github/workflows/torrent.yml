@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The Omega Man (1971)"
-  comment: "The Omega Man (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/aHFveDc2cHdhaVk2c0x0UnlmZnNvanBBTEFtRXBGblppQ2xsWGpsZ0Qyczljc09uV2FXblRMNjJaaXFZYy9wL2Z5Mkc5VjA0cmNnWHN1N25qNjAzZEE9PQ==/6A8SG9A6G87AS78G6/The%20Omega%20Man%20(1971)%20BluRay%20[720p]%20[YTS.AM].zip
-  file_name: "The Omega Man (1971) [BluRay] [720p] [YTS.AM].zip"
+  name: "The Zodiac Killer (1971)"
+  comment: "The Zodiac Killer (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/amJKcXp5MWNhYVJCRFZYTEQ4cVJXbEg5a1VEM0QvbFQzUjFLeTJ6WWlJaXExRkkyU3JTN3IyQU13QXUxSUkvRkNvaUVxSnpHaHFEUm9yOCtpU25YTXc9PQ==/6A8SG9A6G87AS78G6/The%20Zodiac%20Killer%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "The Zodiac Killer (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
