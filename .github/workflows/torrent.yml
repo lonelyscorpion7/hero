@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Lawman (1971)"
-  comment: "Lawman (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/N0xSUWRVM3Z6QUwrWDRyNUtHZXBKOENpdEhGK2ZPdHVCUUJhbDZCV2RML1lkajZ2TXdHMG1RWVpSYXNyUVMybXJLemQxVmtSeDcvUmhqSTBCZlloa2c9PQ==/AF47EAC5D86A5E838F43FF0077196B9E35B904A5/Lawman%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "Lawman (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "The Omega Man (1971)"
+  comment: "The Omega Man (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/aHFveDc2cHdhaVk2c0x0UnlmZnNvanBBTEFtRXBGblppQ2xsWGpsZ0Qyczljc09uV2FXblRMNjJaaXFZYy9wL2Z5Mkc5VjA0cmNnWHN1N25qNjAzZEE9PQ==/6A8SG9A6G87AS78G6/The%20Omega%20Man%20(1971)%20BluRay%20[720p]%20[YTS.AM].zip
+  file_name: "The Omega Man (1971) [BluRay] [720p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
