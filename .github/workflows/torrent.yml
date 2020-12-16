@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The Shiver Of The Vampires (1971)"
-  comment: "The Shiver Of The Vampires (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/ejhMSEI4Y2UxMGp5RUoxSTVBeDJ4NkY5anQ3b1d1WXUrcEk2cnVRa1JEZ29UcmZzaUgxZ0JzN2hCb0NickZOVzR0TUM1UURHdDFvendXRDhNcTRnckg4YzZtdnlQSi8zVy91UjVIdnFpeGs9/97A52B0D154D9A2E53187F14E7AAC9A90F9F8A2B/The%20Shiver%20Of%20The%20Vampires%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "The Shiver Of The Vampires (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "The Go-Between (1971)"
+  comment: "The Go-Between (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/VHh5Rzg3a3c0byt5bEhmWjNwU2hJS2UzN3p1eEFMV3R4aTBBWlFtUHNnZHN5UE53ME9NQVhPWlJGZ1JzSS9PYkRqUGIwT2w2R0lsTnBBNnFEc01KeEE9PQ==/02B160F0EFA64C06EFE4829133EB0F872A2B4201/The%20Go-Between%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "The Go-Between (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
