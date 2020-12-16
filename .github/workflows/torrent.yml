@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "slightly.scarlet.1956"
-  comment: "slightly.scarlet.1956"
-  url: http://linkspremium.download/0ADEAA5E5/195.189.226.28/slightly.scarlet.1956.mkv
-  file_name: "slightly.scarlet.1956.mkv"
+  name: "she.says.shes.innocent.1991"
+  comment: "she.says.shes.innocent.1991"
+  url: http://linkspremium.download/2F5F00C95/195.189.226.28/she.says.shes.innocent.1991.mkv
+  file_name: "she.says.shes.innocent.1991.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
