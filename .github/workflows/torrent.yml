@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Expanse.S05E02.720p.WEB.x265"
-  comment: "The.Expanse.S05E02.720p.WEB.x265"
-  url: https://nl22.seedr.cc/ff_get/805571584/The.Expanse.S05E02.720p.WEB.x265-MiNX.mkv?st=0OLAJaR-DJeGyshpZ9G2Ag&e=1608194894
-  file_name: "The.Expanse.S05E02.720p.WEB.x265-MiNX.mkv"
+  name: "NeXt.2020.S01E07.WEB.x264"
+  comment: "NeXt.2020.S01E07.WEB.x264"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeWw1OXBROXVrS0c3TjFwQlF6ZWZsM0ZsMTBacVJNWmxBUno4S1lqUzVYTHg2OElLUmp6MUpKQXRwbEErNFVMNGd1RUhmZEY1RUxvSTNoNTNZd0g4SitwMEVoVURscXlJVzdMZGluR1ZXa3pWS3I3T1k2YnpBTTFaYzVBQ1JrZmlvPQ==/NeXt.2020.S01E07.WEB.x264-PHOENiX.mkv
+  file_name: "NeXt.2020.S01E07.WEB.x264-PHOENiX.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
