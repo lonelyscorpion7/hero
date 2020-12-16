@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Trafic.1971.1080p.BluRay.x264"
-  comment: "Trafic.1971.1080p.BluRay.x264"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTendDVFJldVlZQkM0VzF4cDFsS1BXbE1WcGtoRy9LVDVLZUVZWVd3RnFkZmd2TktWbEJxRU9hZzJEQlZydmg4UXpqMk9tZG1xcmhIQ3lhRnV1QS9RejFHUCtPNXNBSDZIS1k4OGRzR0I2dUtxMnF2NjZlazVtVnV2b2dJdUxwVUI4PQ==/Trafic.1971.1080p.BluRay.x264-[YTS.LT].mp4
-  file_name: "Trafic.1971.1080p.BluRay.x264-[YTS.LT].mp4"
+  name: "Lust.For.A.Vampire.1971.1080p.BluRay.x264"
+  comment: "Lust.For.A.Vampire.1971.1080p.BluRay.x264"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeWlqNk4zVmhKdWVqRUZFSkV6WHg4b2dGR0pVN1NGL01KajgzYTAwZVRsbXB6QlNSWlkvQ2hwaURrNHBNZmh2UlVWNVFzOWxLcWNtR3o3ZnVOUzN3VEh3UDV1THJ4amMwUldkdVoxT2V3U1JaY1dSbWQvZ0IvWkQ1MkhnTjEyalFlcDE2Ykc4VWZSYjBReWRlTmtKNGF2MHFVajBHZCtsOFpLMlI5TFBrWVhFUT09/Lust.For.A.Vampire.1971.1080p.BluRay.x264-[YTS.LT].mp4
+  file_name: "Lust.For.A.Vampire.1971.1080p.BluRay.x264-[YTS.LT].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
