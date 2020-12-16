@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Lust.For.A.Vampire.1971.1080p.BluRay.x264"
-  comment: "Lust.For.A.Vampire.1971.1080p.BluRay.x264"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeWlqNk4zVmhKdWVqRUZFSkV6WHg4b2dGR0pVN1NGL01KajgzYTAwZVRsbXB6QlNSWlkvQ2hwaURrNHBNZmh2UlVWNVFzOWxLcWNtR3o3ZnVOUzN3VEh3UDV1THJ4amMwUldkdVoxT2V3U1JaY1dSbWQvZ0IvWkQ1MkhnTjEyalFlcDE2Ykc4VWZSYjBReWRlTmtKNGF2MHFVajBHZCtsOFpLMlI5TFBrWVhFUT09/Lust.For.A.Vampire.1971.1080p.BluRay.x264-[YTS.LT].mp4
-  file_name: "Lust.For.A.Vampire.1971.1080p.BluRay.x264-[YTS.LT].mp4"
+  name: "Straw.Dogs.1971.1080p.BluRay.x264"
+  comment: "Straw.Dogs.1971.1080p.BluRay.x264"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeHpxTFZ2Y1pFZGF6QXJMUTNZVEt5QWxjeTAyNTVNNkc5YjhCOWN3N0FqRG5XdERzU3A5SzU2S3kyZm4xN1d6Y3NwaWNwTkRKRnF4UkdNNnhrbGpJL0Y2RkcveWkyVHFtYnlmemhWS2VzMFVjUEJPUHg5NS85ekhxRG9ISTU2cU1FbmloRHhsQzNEc2RCR0NOWmF4a2ZT/Straw.Dogs.1971.1080p.BluRay.x264-[YTS.AM].mp4
+  file_name: "Straw.Dogs.1971.1080p.BluRay.x264-[YTS.AM].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
