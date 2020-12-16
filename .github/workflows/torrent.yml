@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The.Touch.1971.1080p.BluRay.x264"
-  comment: "The.Touch.1971.1080p.BluRay.x264"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTelUvZ1l3cFFkQzRBTjhGOUg0N1BRVzNSM09USVgzcGNwVlg3T1lyM2JmMFJHb0ZmV3kxM1Y0K2JLMVUwZ2J3cStkdHh4MzNSeTQvT1YwM3NjYStMK2ExeXIzbElPRXVqQTVlOUtqQ2RDQ3dxNlcyYy9xWXh0cFQ5YWN3Y00vUG4yZjJMTTBENjYzSElIUlpMMHJYenVM/The.Touch.1971.1080p.BluRay.x264-[YTS.LT].mp4
-  file_name: "The.Touch.1971.1080p.BluRay.x264-[YTS.LT].mp4"
+  name: "slightly.scarlet.1956"
+  comment: "slightly.scarlet.1956"
+  url: http://linkspremium.download/0ADEAA5E5/195.189.226.28/slightly.scarlet.1956.mkv
+  file_name: "slightly.scarlet.1956.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
