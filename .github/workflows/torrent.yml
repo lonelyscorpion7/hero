@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Death In Venice (1971)"
-  comment: "Death In Venice (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/UVpFaGtMOTBMMVVrNGxud2RpQVdadXozbnROM01GZDl5bWhHZUFFRWhmKzV5N004eGN6MXN4RkFLZFVhRUpIa2dMMUh5TE8yWGVFdE1HZUNqKzhZV1E9PQ==/77771DFC2525245631291A766E95D6D30C6EDA01/Death%20In%20Venice%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "Death In Venice (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "The Night Visitor (1971)"
+  comment: "The Night Visitor (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/cmZsT3ZvSk1NN0xsbFhpaGFyVTFlRnVRR0djd2JSZ3FkSDZYdDJBaXUvWDhRWUZTc2tqME1IZE00NkVYQ3o5ZFJIL2RJb2hNYTN1V3lLTzZZM1JCT1E9PQ==/31135FBBF6E947D40AB669FA0C64CE5F3A439040/The%20Night%20Visitor%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "The Night Visitor (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
