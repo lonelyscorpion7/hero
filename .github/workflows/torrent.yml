@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Straw.Dogs.1971.1080p.BluRay.x264"
-  comment: "Straw.Dogs.1971.1080p.BluRay.x264"
-  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTeHpxTFZ2Y1pFZGF6QXJMUTNZVEt5QWxjeTAyNTVNNkc5YjhCOWN3N0FqRG5XdERzU3A5SzU2S3kyZm4xN1d6Y3NwaWNwTkRKRnF4UkdNNnhrbGpJL0Y2RkcveWkyVHFtYnlmemhWS2VzMFVjUEJPUHg5NS85ekhxRG9ISTU2cU1FbmloRHhsQzNEc2RCR0NOWmF4a2ZT/Straw.Dogs.1971.1080p.BluRay.x264-[YTS.AM].mp4
-  file_name: "Straw.Dogs.1971.1080p.BluRay.x264-[YTS.AM].mp4"
+  name: "Le.Mans.1971.1080p.BluRay.x264"
+  comment: "Le.Mans.1971.1080p.BluRay.x264"
+  url: https://dlsv6.sonicbit.net/file/dl2/TXQ2UHNNQzBZWjdYdk5VbFg4eEhjUFZFTXdKclZSak9BYWc1R1k2MTJTd0VkR2NpSXN3NXFyOVNvN3dUSkpFNFd4aUJxYjNoeDduOFBQV21ScW9xeHYza3Q1bjljUEdZVm5xRGZvS2ZZN1JLR3BUZ2hkeG5PT0FZWk5VZjNGTkQwNzZPM2ZiMHRldDVYWDNCVkptQlM2WXQrL09LTGl3NVBXZERmRG1vVHFKOHMrblkwbXNxNHdFOG5Kd2FpMWt4/Le.Mans.1971.1080p.BluRay.x264-[YTS.AM].mp4
+  file_name: "Le.Mans.1971.1080p.BluRay.x264-[YTS.AM].mp4"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
