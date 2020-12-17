@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "And Now For Something Completely Different (1971)"
-  comment: "And Now For Something Completely Different (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/THZQU094Y0tNVm9oMUVja29BdUVNbEYwY2h3M1RMcWZ1aDBhZ1kwT09QemR0Ylh0R09obFNMbFc5MEJwTTJSWU9Qc1VWYXhPU3hNUGxHbUVnQVg2Q2c9PQ==/E13422CB8E3E908979FD1FB5BBB928622189ECA6/And%20Now%20For%20Something%20Completely%20Different%20(1971).zip
-  file_name: "And Now For Something Completely Different (1971).zip"
+  name: "Bedknobs and Broomsticks (1971)"
+  comment: "Bedknobs and Broomsticks (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/ditVSUZmclZjeFl3ZnJXSUVkT3hNVUVxZEhlQ2NIUWZtRlM2TnVWMC9ZbVMzazBZOUtHY2wvL0E4eUtRdThvS00zWDkzTTFBd1cwNWh1RVRVMER3NEE9PQ==/8A23DB068C1A80699517C73B07024286D7C8B387/Bedknobs%20and%20Broomsticks%20(1971)%201080p.zip
+  file_name: "Bedknobs and Broomsticks (1971) [1080p].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
