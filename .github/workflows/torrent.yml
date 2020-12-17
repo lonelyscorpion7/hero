@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Such Good Friends (1971)"
-  comment: "Such Good Friends (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/QncyMHgwb3RnSG4zVGNEUzUzMHlPYysvZFNBMDJKd0JZS2o4NVJrZTMwR1c0ZXdHSldHaFE1MXFBbDRnanE4bS9DYTYvVjl5NmtIcG84blozQkc1Vmc9PQ==/E825D65ED344817F0A1976CA3DF95E50DEF6A11D/Such%20Good%20Friends%20(1971)%201080p%20[YTS.AG].zip
-  file_name: "Such Good Friends (1971) [1080p] [YTS.AG].zip"
+  name: "The Mephisto Waltz (1971)"
+  comment: "The Mephisto Waltz (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/NVdReGp5ZThZZ2hFRXIvSmhJSUNxSUVjMCtJZWlybktENWVrOVlCUi9sVEd6SXJqMzF1d1htZEUvYjhkOC8yUkhEeCtnVkQyY2pZbDFXc0l5Y1lRbEE9PQ==/49F76C8C79AAB9964552D7D96E22A3564D075AD7/The%20Mephisto%20Waltz%20(1971)%201080p%20[YTS.AG].zip
+  file_name: "The Mephisto Waltz (1971) [1080p] [YTS.AG].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
