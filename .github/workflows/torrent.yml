@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Escape From The Planet of the Apes (1971)"
-  comment: "Escape From The Planet of the Apes (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/OHNyZ242Z2VoTXFQUGhxamRINHBUNjRtNFNtdHZOSEJvSmE5TmZLVlkyQlRKRWxxOWMyL2lYTytybGRWQkJKZTQ1YXdqKzQ5bGpKakIrMTdhQVptMEE9PQ==/27EFB42D95BB9598B4B11B73E28CBE492A99C232/Escape%20From%20The%20Planet%20of%20the%20Apes%20(1971)%201080p.zip
-  file_name: "Escape From The Planet of the Apes (1971) [1080p].zip"
+  name: "Johnny Got His Gun (1971)"
+  comment: "Johnny Got His Gun (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/SE51L2Fsd3djMUJJVFN6UlN1Y0NYcGlxdVlURlVxKzVhVWFYeUxyZXhxRE5HVG9XcEM2bUI4K3ljUitLd0phLw==/5A7FCA456991088D12E5BC111D6953F1A222975F/Johnny%20Got%20His%20Gun%20(1971)%201080p.zip
+  file_name: "Johnny Got His Gun (1971) [1080p].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
