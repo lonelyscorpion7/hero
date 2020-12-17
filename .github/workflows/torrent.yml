@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The Last Valley (1971)"
-  comment: "The Last Valley (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/em91ZnEzLzNyT3d5c1o0VEZxaWIrVHhHR2kySVRQd0UzVGRTLzRjV3VvMDlCMWZhZHFwN0IvV2huRjVoczlzbnhGdWNSWWRXQ2lENGZpWElBRGE1dVE9PQ==/0036E986204082BE97A7C36745DAE37A47A6CABE/The%20Last%20Valley%20(1971)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "The Last Valley (1971) [1080p] [BluRay] [YTS.MX].zip"
+  name: "Jo (1971)"
+  comment: "Jo (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/TGNBUzN5TnFDWnMzYzdWZjNCNjkwNEk5NHdwZXpCbEI1bEZwdDRoc3lCNXg0M1BTVnN5ZnRrQ2ZyR0lGaXN2Vg==/2BD70BD013F7C314DE887676EA8A3ED3A12E47FB/Jo%20(1971)%201080p%20[WEBRip]%20[YTS.MX].zip
+  file_name: "Jo (1971) [1080p] [WEBRip] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
