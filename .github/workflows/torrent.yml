@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Gumshoe (1971)"
-  comment: "Gumshoe (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/N0ZoR2VYdDFGWUJzVXh0a3dQbWlEYitPRmRPVmw0N2pXUXQyM1VJaFRJRDFnbHEwS0pFRzNzU3dlS2JOS3VFQ1B6NGR2N0JFajVEWDJxYXJ6dEhkTEE9PQ==/38B613F7AC2B90B5225B3AC285DAC062D19B3D14/Gumshoe%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "Gumshoe (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "If Footmen Tire You What Will Horses Do  (1971)"
+  comment: "If Footmen Tire You What Will Horses Do  (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/dVpGTEFvRlZZTVc4UmFoR1R4QitSYzJoTGtETE5TbFlyV1BQQnNWZ0ZVWExTL0hkT29WQkhrVmluWE90dG9tcFJkdWVpc1NFYTlHZ2tCK3krRDYzRXBXY25nNFhtYXBPZ0diSmlSaEkzUytleFVPTjVpUE0wb2ZxNEJvOSsvS1o=/890D92AB00453EC2E5F0EC6CC8EA01B47F00E032/If%20Footmen%20Tire%20You%20What%20Will%20Horses%20Do%20%20(1971)%20WEBRip%20[1080p]%20[YTS.AM].zip
+  file_name: "If Footmen Tire You What Will Horses Do  (1971) [WEBRip] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
