@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The Case Of The Scorpion's Tail (1971)"
-  comment: "The Case Of The Scorpion's Tail (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/OEJqckxKeExxdm1mMTNUMlZIUGY4Ni94QlpuWFdGS1d3YXYzVGRVdktXYmxWMWV1RGZqaXJLVlRidDZnMGZrcS96djkxR01qRG94ZGgwbzF2dStteXVtTHRucjBRdURXVElrL3BaNW9RaU09/45F084BF86311B9D08CF24DAF7B9FCB9D63CD748/The%20Case%20Of%20The%20Scorpion's%20Tail%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "The Case Of The Scorpion's Tail (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Vladimir Et Rosa (1971)"
+  comment: "Vladimir Et Rosa (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/cGEwUDc1Qjg1YTNyYkx1SXAyNG44ZEJCTXNyakJSYnhPYlBOTnhaUVJZbjgxMUNmOGNINnpDeG5Tb3Q5eEpmV05hVmJuWFpwWHpZdDJIQmFNeW9nYkE9PQ==/CB9C335F3DFC6C716293C867136C219C59FCA8F3/Vladimir%20Et%20Rosa%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "Vladimir Et Rosa (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
