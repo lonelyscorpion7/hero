@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "A New Leaf (1971)"
-  comment: "A New Leaf (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/Wkg1TjhjcVYxblNRRlRqWG13YkJ3WUVESzArSml5QWFqMm5pYWEyR2lLbEE0NEdGVGg0YU9Oa3U0L2cxdk5EVg==/DA91ABF162BCA213AFC2FCBFD9B49813ECEF50CF/A%20New%20Leaf%20(1971)%201080p.zip
-  file_name: "A New Leaf (1971) [1080p].zip"
+  name: "The House That Dripped Blood (1971)"
+  comment: "The House That Dripped Blood (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/N1hXQjZndzZzWDVkYmpyZ1c0Ly94U1ZCb0RNTFlFcHVhU1E3T04rRTFxcmdqTTkzYU1wMnQreTVoS09BTk9RN0MrQjFwM1gzM2NBQXNvQUx0UnlwUk0zdFpCandDNHBXcjdvUHF0a2dzKzQ9/FB0A965521671316D7E61098581BDFB6C46AA473/The%20House%20That%20Dripped%20Blood%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "The House That Dripped Blood (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
