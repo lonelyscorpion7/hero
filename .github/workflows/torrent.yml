@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Bedknobs and Broomsticks (1971)"
-  comment: "Bedknobs and Broomsticks (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/ditVSUZmclZjeFl3ZnJXSUVkT3hNVUVxZEhlQ2NIUWZtRlM2TnVWMC9ZbVMzazBZOUtHY2wvL0E4eUtRdThvS00zWDkzTTFBd1cwNWh1RVRVMER3NEE9PQ==/8A23DB068C1A80699517C73B07024286D7C8B387/Bedknobs%20and%20Broomsticks%20(1971)%201080p.zip
-  file_name: "Bedknobs and Broomsticks (1971) [1080p].zip"
+  name: "Countess Dracula (1971)"
+  comment: "Countess Dracula (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/VUNWZlROaDJKbzlTdGVkMno5SWpKcnBRd0RoOUJCNVBITE9FVnIwcEt0bjhoeTB2bDhjeU1WWkZiK1U4dVZZbA==/50BD60A8766109FE710DAA9FBE298923920CA8B9/Countess%20Dracula%20(1971)%201080p.zip
+  file_name: "Countess Dracula (1971) [1080p].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
