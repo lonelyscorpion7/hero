@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Requiem For A Vampire (1971)"
-  comment: "Requiem For A Vampire (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/UDF3T2NWZkNrUmt1bkpaaHRvNXpNZjdFQ0FZanJTOU5wNkE2ZXc1Zk9zN3J4UTZQUTR0d0dqcGxoL1h4bVkrM2lLNDFNTm5kUGpYTFlhNmJLMGtweDFxemZzQWcyZzR5Q3E3ak9EejBHY3c9/1D15E7F42CF1D0AD73B509125A7116604DB69812/Requiem%20For%20A%20Vampire%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "Requiem For A Vampire (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Harold And Maude (1971)"
+  comment: "Harold And Maude (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/T0ZpaHAxRjdJUHQ2TXpWQlR5TWtDUDB1VC82WnFIUkZKdU9WMmFoeDBmdzhXOWJ3QnArZ3U1TWpuWURoZGFaeFB1WUx0cVd4cG01NGwxdmFReHVNakE9PQ==/8965C4985899517B45688A21A917D7A4E313770F/Harold%20And%20Maude%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "Harold And Maude (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
