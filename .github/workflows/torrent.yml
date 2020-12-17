@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Sunday Bloody Sunday (1971)"
-  comment: "Sunday Bloody Sunday (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/UTNJeUpVdUQwZU5VM2hSQmpRQUZ0ays3RmhOaXBnV0JxNUpabmlMb3NYdUFldWM5dnNKUkNaZXhSMVlLNkJ0bQ==/142E3DAD4C11DF94369BCC5335163B204C3DDC46/Sunday%20Bloody%20Sunday%20(1971)%201080p.zip
-  file_name: "Sunday Bloody Sunday (1971) [1080p].zip"
+  name: "Such Good Friends (1971)"
+  comment: "Such Good Friends (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/QncyMHgwb3RnSG4zVGNEUzUzMHlPYysvZFNBMDJKd0JZS2o4NVJrZTMwR1c0ZXdHSldHaFE1MXFBbDRnanE4bS9DYTYvVjl5NmtIcG84blozQkc1Vmc9PQ==/E825D65ED344817F0A1976CA3DF95E50DEF6A11D/Such%20Good%20Friends%20(1971)%201080p%20[YTS.AG].zip
+  file_name: "Such Good Friends (1971) [1080p] [YTS.AG].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
