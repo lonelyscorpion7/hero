@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Fiddler On The Roof (1971)"
-  comment: "Fiddler On The Roof (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/eDVNS2pwSzRmeTBGYm5mWmpRRzN4aXJzODU3bXpnUTRIVmd5clVPK01TNDkyNXBsNll2czl0Q1o2cnpQblAzT2VRbEowZ2ozb1lvdFF4emdtRU1KQWc9PQ==/86CA10D139D862E24D7A0592ECDD57A50EFE89E8/Fiddler%20On%20The%20Roof%20(1971)%201080p%20[YTS.AG].zip
-  file_name: "Fiddler On The Roof (1971) [1080p] [YTS.AG].zip"
+  name: "The Beguiled (1971)"
+  comment: "The Beguiled (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/bDEyWlVHeVFJYkhaSUJDZFQ2L2dYV29DcTFNZjJCZm0xdkVYRUh6YlU4VnUyUkY0Y0c2UzF2VHpXUVhrKzVXSHZibWJTVHBBSzZDZTkvVHF6R1JyZ1E9PQ==/12DEC284EB360724ECF88BC1F8E1B2B764E1CE63/The%20Beguiled%20(1971)%201080p%20[YTS.AG].zip
+  file_name: "The Beguiled (1971) [1080p] [YTS.AG].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
