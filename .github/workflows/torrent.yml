@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Summer Of '42 (1971)"
-  comment: "Summer Of '42 (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/Q1pLbisyTlBKRStncmRQWjVud1N1ODJ5bHpNYTNRMnhHQXhhd0hUM2E4UTVSQ2V5dU9aZStyUUE1WWF1dzE0SUlaaDdRQnZvRnZDQnd6THZ1MjBsWGc9PQ==/91BC983EE4A402583CE5C57DE879757734D8476F/Summer%20Of%20'42%20(1971)%201080p%20[YTS.AG].zip
-  file_name: "Summer Of '42 (1971) [1080p] [YTS.AG].zip"
+  name: "Struggle In Italy (1971)"
+  comment: "Struggle In Italy (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/bGVhVmpNb09nRWNxa0FGZi8xYk9TNUdFSnVSeHRzam1iMENIQUcrZXYzOWZNVkhLZUJwVWFMS3p1WlZqdW40Nlc1eXdhK0JhaW40VDdGY3EzaHZ0a1E9PQ==/9024B477A57C09F0B5449D8AC59C104B33656E5A/Struggle%20In%20Italy%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "Struggle In Italy (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
