@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Play It Again Sam (1972)"
-  comment: "Play It Again Sam (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/djhaeGQ4YmFsSHJmS1BJTlR3VUFocHhKbkZTZ3pyYkh6SjBuSE5VUlNYVmpua3c3SkNnK2VsRXIxcDl4Ymlsa2VLNXoxODNTc3J6dkdJRkNtUlF0eHc9PQ==/6A8SG9A6G87AS78G6/Play%20It%20Again%20Sam%20(1972)%20720p%20[WEBRip]%20[YTS.MX].zip
-  file_name: "Play It Again Sam (1972) [720p] [WEBRip] [YTS.MX].zip"
+  name: "Roma (1972)"
+  comment: "Roma (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/Ym1IWkd6TUdrVkRMODBSVHNlbzA1TDNmL09zWE01QUpUbXFPRTI5NGZac2tPUGVMR2NMbElzeTdzcWw0aHVzVVcxM1ZhYk5BZS9VQldmR1RJQkRHSkE9PQ==/6A8SG9A6G87AS78G6/Roma%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Roma (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
