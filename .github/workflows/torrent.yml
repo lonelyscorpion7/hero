@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "James Bond Diamonds Are Forever (1971)"
-  comment: "James Bond Diamonds Are Forever (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/Y1pKWmNnQ0N4VEkySm9ZR2hiVTBtekVudVNWTWh4Vys3MnZCcWYvMC9lWWpWMmhiWm52N1ljRFVZbW1hcWZXcmgzQzZUclNBSjkzLzdEWXVsRlprdUE9PQ==/40D072D340B91121E3370BAA203A37344B9F1525/James%20Bond%20Diamonds%20Are%20Forever%20(1971).zip
-  file_name: "James Bond Diamonds Are Forever (1971).zip"
+  name: "Dirty Harry (1971)"
+  comment: "Dirty Harry (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/NFhrWjlWYUVHYThIVXBSSW9kYTlCdWorNlpnaXYzL2FoY1dKcWp6MzA0YnNCV21wYllYZFhaWVNEaVhlZmp5eA==/F22F0482D36295752322AFB99B1BB5851FB2DA8F/Dirty%20Harry%20(1971)%201080p.zip
+  file_name: "Dirty Harry (1971) [1080p].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
