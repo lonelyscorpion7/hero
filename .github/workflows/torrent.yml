@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Johnny Got His Gun (1971)"
-  comment: "Johnny Got His Gun (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/SE51L2Fsd3djMUJJVFN6UlN1Y0NYcGlxdVlURlVxKzVhVWFYeUxyZXhxRE5HVG9XcEM2bUI4K3ljUitLd0phLw==/5A7FCA456991088D12E5BC111D6953F1A222975F/Johnny%20Got%20His%20Gun%20(1971)%201080p.zip
-  file_name: "Johnny Got His Gun (1971) [1080p].zip"
+  name: "Sunday Bloody Sunday (1971)"
+  comment: "Sunday Bloody Sunday (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/UTNJeUpVdUQwZU5VM2hSQmpRQUZ0ays3RmhOaXBnV0JxNUpabmlMb3NYdUFldWM5dnNKUkNaZXhSMVlLNkJ0bQ==/142E3DAD4C11DF94369BCC5335163B204C3DDC46/Sunday%20Bloody%20Sunday%20(1971)%201080p.zip
+  file_name: "Sunday Bloody Sunday (1971) [1080p].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
