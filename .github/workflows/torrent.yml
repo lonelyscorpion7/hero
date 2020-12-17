@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Willy Wonka & the Chocolate Factory (1971)"
-  comment: "Willy Wonka & the Chocolate Factory (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/U2xrMCtjdE9ta1RkcWNyYkVVVHNpODdVUWJMdE1tRWZHbEgwMytkSk9VYXA0UnpINkd5RWhhQnZhamxrelZIU1ZWdHY0T01FVVR5NGU5ejc4b3lWdFE9PQ==/506D61C50F8275E10DC63B25D3C5C2A7D1A778D7/Willy%20Wonka%20&%20the%20Chocolate%20Factory%20(1971)%201080p.zip
-  file_name: "Willy Wonka & the Chocolate Factory (1971) [1080p].zip"
+  name: "The Anderson Tapes (1971)"
+  comment: "The Anderson Tapes (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/cXRad0hlU1FNejNGSDlXTFpFcSszcEE3M1pkaDh0MlJ4bFlHQm5ibTJrbXp3S3BZbnJKUElJMXlNUDYrOW9tSUdZeTZFam1tNU1lcUFyUTNyMkRINERhcEVWN05VL1JwNEJYZEdMd2M3WVk9/66162A2E1FB78218D4F04FFAF73F49083BB2FE54/The%20Anderson%20Tapes%20(1971)%201080p%20[BluRay]%20[5.1]%20[YTS.MX].zip
+  file_name: "The Anderson Tapes (1971) [1080p] [BluRay] [5.1] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
