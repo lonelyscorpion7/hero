@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Dirty Harry (1971)"
-  comment: "Dirty Harry (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/NFhrWjlWYUVHYThIVXBSSW9kYTlCdWorNlpnaXYzL2FoY1dKcWp6MzA0YnNCV21wYllYZFhaWVNEaVhlZmp5eA==/F22F0482D36295752322AFB99B1BB5851FB2DA8F/Dirty%20Harry%20(1971)%201080p.zip
-  file_name: "Dirty Harry (1971) [1080p].zip"
+  name: "Escape From The Planet of the Apes (1971)"
+  comment: "Escape From The Planet of the Apes (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/OHNyZ242Z2VoTXFQUGhxamRINHBUNjRtNFNtdHZOSEJvSmE5TmZLVlkyQlRKRWxxOWMyL2lYTytybGRWQkJKZTQ1YXdqKzQ5bGpKakIrMTdhQVptMEE9PQ==/27EFB42D95BB9598B4B11B73E28CBE492A99C232/Escape%20From%20The%20Planet%20of%20the%20Apes%20(1971)%201080p.zip
+  file_name: "Escape From The Planet of the Apes (1971) [1080p].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
