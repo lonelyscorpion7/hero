@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Dulcima (1971)"
-  comment: "Dulcima (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/RG1JemZVUWlLN3Ayazl0UTZRdzlaZEhwaGYrdTJvQ3JMSFRuYXJzdG5oQkJjbG1xbWttNldQN0JvYWhhSzN6R29PSzhVSzBhRDBHay93M0MyOHVCRWc9PQ==/6A8SG9A6G87AS78G6/Dulcima%20(1971)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "Dulcima (1971) [1080p] [BluRay] [YTS.MX].zip"
+  name: "Chatos Land (1972)"
+  comment: "Chatos Land (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/aGlLUkFiUjl5cUlKcHZaVFo0TEdiUGhhbFNWYVlhYXdzQ20xNlRyNUhBZFFhVWFmcHAyLzB6ZDBOQlQ0ZE84SFRFclI3Skx6TWVPdm5XYWtwZFZFMVE9PQ==/6A8SG9A6G87AS78G6/Chatos%20Land%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Chatos Land (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
