@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Vladimir Et Rosa (1971)"
-  comment: "Vladimir Et Rosa (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/cGEwUDc1Qjg1YTNyYkx1SXAyNG44ZEJCTXNyakJSYnhPYlBOTnhaUVJZbjgxMUNmOGNINnpDeG5Tb3Q5eEpmV05hVmJuWFpwWHpZdDJIQmFNeW9nYkE9PQ==/CB9C335F3DFC6C716293C867136C219C59FCA8F3/Vladimir%20Et%20Rosa%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "Vladimir Et Rosa (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Requiem For A Vampire (1971)"
+  comment: "Requiem For A Vampire (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/UDF3T2NWZkNrUmt1bkpaaHRvNXpNZjdFQ0FZanJTOU5wNkE2ZXc1Zk9zN3J4UTZQUTR0d0dqcGxoL1h4bVkrM2lLNDFNTm5kUGpYTFlhNmJLMGtweDFxemZzQWcyZzR5Q3E3ak9EejBHY3c9/1D15E7F42CF1D0AD73B509125A7116604DB69812/Requiem%20For%20A%20Vampire%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "Requiem For A Vampire (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
