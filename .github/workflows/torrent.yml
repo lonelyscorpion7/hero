@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Jo (1971)"
-  comment: "Jo (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/TGNBUzN5TnFDWnMzYzdWZjNCNjkwNEk5NHdwZXpCbEI1bEZwdDRoc3lCNXg0M1BTVnN5ZnRrQ2ZyR0lGaXN2Vg==/2BD70BD013F7C314DE887676EA8A3ED3A12E47FB/Jo%20(1971)%201080p%20[WEBRip]%20[YTS.MX].zip
-  file_name: "Jo (1971) [1080p] [WEBRip] [YTS.MX].zip"
+  name: "Willy Wonka & the Chocolate Factory (1971)"
+  comment: "Willy Wonka & the Chocolate Factory (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/U2xrMCtjdE9ta1RkcWNyYkVVVHNpODdVUWJMdE1tRWZHbEgwMytkSk9VYXA0UnpINkd5RWhhQnZhamxrelZIU1ZWdHY0T01FVVR5NGU5ejc4b3lWdFE9PQ==/506D61C50F8275E10DC63B25D3C5C2A7D1A778D7/Willy%20Wonka%20&%20the%20Chocolate%20Factory%20(1971)%201080p.zip
+  file_name: "Willy Wonka & the Chocolate Factory (1971) [1080p].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
