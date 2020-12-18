@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Butterflies Are Free (1972)"
-  comment: "Butterflies Are Free (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/RTlGWEJ2WmdVdGpaMEtpUlNIcENnTnRuaDM5NFNtRVZSUEg2Y2xRQWp1MXREYkpFSWJ6VzdXb1FBTks4OEtkeWgzN3NaVlppR0w4VTVSdGgwYnNVMEx3WVlNN2N5UW5MMzZBODVqY09HcUU9/73A15FA40E762BD32AF825911CFFD6DA9760B5EE/Butterflies%20Are%20Free%20(1972)%201080p%20[WEBRip]%20[YTS.MX].zip
-  file_name: "Butterflies Are Free (1972) [1080p] [WEBRip] [YTS.MX].zip"
+  name: "Au Pair Girls (1972)"
+  comment: "Au Pair Girls (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/S29Jako1QWJRYXRPOG9vczRUdkRFTndXZ09wUXVDRzNKckc2aU5COFlaMUNlVUVDcmgyUVRQaDM0RHl6eUx0aW1FdXVwck5ERlFDSEhBbVZkQ0hacHc9PQ==/0F7FE004750CCA1A373BA4DFC148F893C150CB2C/Au%20Pair%20Girls%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Au Pair Girls (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
