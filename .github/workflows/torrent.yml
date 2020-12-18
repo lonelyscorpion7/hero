@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "What's Up, Doc  (1972)"
-  comment: "What's Up, Doc  (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/bHdTMllyVW5JOUtoUmN1UDdheVA2VU5mMXpMZnhLOUNWV1RGRFVIM3o0aGhyZ2F0eFlFbm1DeGZENTJIMkh3WWJIUDNkT3ppcmQvRGYyaUtKQXBWWVE9PQ==/B3315C424CCF7E0A24623500800D82D849A5CFCF/What's%20Up,%20Doc%20%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "What's Up, Doc  (1972) [1080p] [BluRay] [YTS.MX].zip"
+  name: "Toys Are Not For Children (1972)"
+  comment: "Toys Are Not For Children (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/SnZtZTRjd2tHTktnemo3dmtFS1Q3TzFmN1pmYUtRR3BzRFoyNDZNeWpIWmF4MEZtaU95ZTVXbk1jUnYvYnp2WmZ1Z2EvbGNSNlFteVdSRFM4eWhQT0lEajNwUkoxQW5hSkhRVXJHaFFRS009/4BE02B0070D5736A942691C3AF535B421EB0FC1C/Toys%20Are%20Not%20For%20Children%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
+  file_name: "Toys Are Not For Children (1972) [BluRay] [1080p] [YTS.LT].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
