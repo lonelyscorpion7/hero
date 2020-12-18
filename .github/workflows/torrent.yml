@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Blutjunge Verfuhrerinnen 3. Teil (1972)"
-  comment: "Blutjunge Verfuhrerinnen 3. Teil (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/dlo1djRzamRjcGt0SXNaUElJVm14Zk94dWxLaFB3NVBzV1pvd0plVGlNWm9vL2JlZXpWRFpUMkZySklQS3oyOHQ1aHA2RldWb05XYTFjWERENGZRR1JkQkF0OTROeldJVFBOVkZ4RkNuYXM9/6654A4320FFC8558C1E5EEE01A640B4B010FCB36/Blutjunge%20Verfuhrerinnen%203.%20Teil%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "Blutjunge Verfuhrerinnen 3. Teil (1972) [1080p] [BluRay] [YTS.MX].zip"
+  name: "Blutjunge Verfuhrerinnen 2 (1972)"
+  comment: "Blutjunge Verfuhrerinnen 2 (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/dlo1djRzamRjcGt0SXNaUElJVm14Zm0rMU5mV2I4UjZuWHZrZ2NoeU5tWWdLYlNLRXV5WG9tMExmV0RmbTludlBhN0hRc2NFeFFLS2trZWJ1N01YSDRMUGl0RTlkaUtxZVRyVTJLeDhKb1U9/C08CD56B3CB4DEEF12CC07AB1A628DB7A03A0B8D/Blutjunge%20Verfuhrerinnen%202%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Blutjunge Verfuhrerinnen 2 (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
