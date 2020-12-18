@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Morgiana (1972)"
-  comment: "BMorgiana (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/ZHNyRGU0VXE4WDNGRHR3anlCWCszbDlUeUlycnV6NnJtenoxbWdaN1lCV3IrVC9wYUNldWJPTjJpcGJjUTZQOGJIK2dZT1djRnd4RC9ncmN1d3JEN1E9PQ==/159ECA5AB639C3CB638115D8EBEA39B088EE8FA8/Morgiana%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "Morgiana (1972) [1080p] [BluRay] [YTS.MX].zip"
+  name: "Cut-Throats Nine (1972)"
+  comment: "Cut-Throats Nine (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/QVQ0aGp0bjZmSFA1Rit5YWVVdlpuSUx1eEpTdC9rNlArbjBlZDVuODU1Z1loRWRvVWZVOE4wK1A1R0wrOHhoNmNhNnk5aDZreFE1KzMrbVU1aklTaVE9PQ==/1C398252E5C97BF0613C40C33E77793EE105FE84/Cut-Throats%20Nine%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Cut-Throats Nine (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
