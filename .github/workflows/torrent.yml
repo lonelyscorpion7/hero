@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Sweet Sugar (1972)"
-  comment: "Sweet Sugar (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/N2FORWlpb0YwclZrdy9FQUx2MGRqNU1zdTgvL1FnbmF3OVFXQkZmNzVUZzhuSUdRSERnb0hGdXB6UWdsemZVYzNhTGFDaDlHYVFwSWFJck9qTHl5RHc9PQ==/38694E1F3C4620C0205EFFDA2C627F2B96990B15/Sweet%20Sugar%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
-  file_name: "Sweet Sugar (1972) [BluRay] [1080p] [YTS.LT].zip"
+  name: "The Culpepper Cattle Co. (1972)"
+  comment: "The Culpepper Cattle Co. (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/czBMTkIwNktOOElQZzBjTS84dW5tVlRkRGhDcjRJVGg4TmxreWlYUFMzZy9FRjZJU1l0eVNrUVRvZ1NrWXBtNjlqU24yb3JKejY5K0cvOGo4OWhGNExHTmQ5em93aVNpdng1K0NqWWRTNEE9/4AF6F059CDA7CB188ED2982714FCBE8C88887BA5/The%20Culpepper%20Cattle%20Co.%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
+  file_name: "The Culpepper Cattle Co. (1972) [BluRay] [1080p] [YTS.LT].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
