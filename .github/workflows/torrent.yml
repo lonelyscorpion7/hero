@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Black Gunn (1972)"
-  comment: "Black Gunn (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/NG9sTGlSUTFBTllyZHA2cjJEQ1dEdW1oYzAyZ09qdmlTMWhlVU1ZeWoyZWdiazdSTW8ybkZGSzh6T21LRjdrTTE2eVBxQnVpeVkrOWlLOUVWQjlRWnc9PQ==/244D2D22FEBF0BA07B3F0601DFB01A9E897F511F/Black%20Gunn%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
-  file_name: "Black Gunn (1972) [BluRay] [1080p] [YTS.LT].zip"
+  name: "Endless Night (1972)"
+  comment: "Endless Night (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/M2prR0dKV25BUUtzUjFmcCsySjFBeGdrS0JYMEVpa0dEblowRWd3ZjBWQ2Y4WVUxV0w0R0lFRmovc2JUYWpFNHZHWHA2d3dPMlJ3eXlWZXpibXRLUnc9PQ==/BEF1BF52755E5E606626EEBBB898007FC60FD907/Endless%20Night%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Endless Night (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
