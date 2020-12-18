@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Tombs Of The Blind Dead (1972)"
-  comment: "Tombs Of The Blind Dead (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/bk9pdUFaOU04dkpZRWVOMkN2RVFCUnY3ZVNEdUFWUWVsSjdWVnRXWWZaWFlwNmNiR0ZvbHJaUkhPVEZXdXh0OXNBVXdoY0grZi9ZMzBjVStRbVE5MzU3K0QvV2VsVm8yVkhCMmp4cVYrYjA9/0AB361639C2C6AFC03B85D3EEFDFCF36C12FE91F/Tombs%20Of%20The%20Blind%20Dead%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
-  file_name: "Tombs Of The Blind Dead (1972) [BluRay] [1080p] [YTS.LT].zip"
+  name: "Black Gunn (1972)"
+  comment: "Black Gunn (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/NG9sTGlSUTFBTllyZHA2cjJEQ1dEdW1oYzAyZ09qdmlTMWhlVU1ZeWoyZWdiazdSTW8ybkZGSzh6T21LRjdrTTE2eVBxQnVpeVkrOWlLOUVWQjlRWnc9PQ==/244D2D22FEBF0BA07B3F0601DFB01A9E897F511F/Black%20Gunn%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
+  file_name: "Black Gunn (1972) [BluRay] [1080p] [YTS.LT].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
