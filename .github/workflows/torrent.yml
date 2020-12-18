@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The Ruling Class (1972)"
-  comment: "The Ruling Class (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/ZUtZZVFHcDlGeWJiOWlaZDBRbWhQV0hNU0JtUnVJVU5jSkszRXlta25NODVhMjQvWERqN2Z5MFV5bXdkR0ZNTDRVWGFVMmo3SXUycmJMQ0FQOGR0dFE9PQ==/C0EA0BF30ABE7AFA3C6C0A5531F5F33806889D14/The%20Ruling%20Class%20(1972)%201080p%20[WEBRip]%20[YTS.MX].zip
-  file_name: "The Ruling Class (1972) [1080p] [WEBRip] [YTS.MX].zip"
+  name: "Antony And Cleopatra (1972)"
+  comment: "Antony And Cleopatra (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/eU5pNHFLVGtXenFBaGk3V2J3ZFk3US9HVFJJM0FUd2ZLNG1RMHBjVnJtMjd2alNZMFRTZjVXSjJwSFZ6S2ZBQXBYWGlvVllDSit1K3VvOE5XSXJmMXdYdlh0K0w5Z09XOGRXckVYMTE5SU09/692016134DF0B54C9B241CD5FADBC2CFA3FFD3DB/Antony%20And%20Cleopatra%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Antony And Cleopatra (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
