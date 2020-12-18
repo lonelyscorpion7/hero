@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Cut-Throats Nine (1972)"
-  comment: "Cut-Throats Nine (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/QVQ0aGp0bjZmSFA1Rit5YWVVdlpuSUx1eEpTdC9rNlArbjBlZDVuODU1Z1loRWRvVWZVOE4wK1A1R0wrOHhoNmNhNnk5aDZreFE1KzMrbVU1aklTaVE9PQ==/1C398252E5C97BF0613C40C33E77793EE105FE84/Cut-Throats%20Nine%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "Cut-Throats Nine (1972) [1080p] [BluRay] [YTS.MX].zip"
+  name: "The Ruling Class (1972)"
+  comment: "The Ruling Class (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/ZUtZZVFHcDlGeWJiOWlaZDBRbWhQV0hNU0JtUnVJVU5jSkszRXlta25NODVhMjQvWERqN2Z5MFV5bXdkR0ZNTDRVWGFVMmo3SXUycmJMQ0FQOGR0dFE9PQ==/C0EA0BF30ABE7AFA3C6C0A5531F5F33806889D14/The%20Ruling%20Class%20(1972)%201080p%20[WEBRip]%20[YTS.MX].zip
+  file_name: "The Ruling Class (1972) [1080p] [WEBRip] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
