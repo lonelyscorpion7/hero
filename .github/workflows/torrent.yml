@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Greaser's Palace (1972)"
-  comment: "Greaser's Palace (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/OWF5UHJmeVN1dFVSYUF0VTVrYzMySnNtUmF1YWNlSzdQdjJtT3k4eWJxa0tRMUFPSGxrT25qc0wzQ0VmaGpVeVZtOGN4RnQ5b2FybmJuMVR2UjA1U1E9PQ==/367B6415FE7AD41C3A1EF419FE339825A2817156/Greaser's%20Palace%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
-  file_name: "Greaser's Palace (1972) [BluRay] [1080p] [YTS.LT].zip"
+  name: "The Magnificent Seven Ride! (1972)"
+  comment: "The Magnificent Seven Ride! (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/SDBPQ2N6Q1NTSkg0ZHV5QThvUUpZaDVCOGFVM3RtV0hpaHJPY2VueE4vMnY2VG1LaFZEaVJiWGYzK1NlTW9nTER3WlBLY1lVSzY5akhDTUlnMEMzL0duaFQxcG52VVJmRXFCb2F1OHdWQjg9/542EA22F14A3B62B7525CC347821179C99E42116/The%20Magnificent%20Seven%20Ride!%20(1972)%201080p%20[BluRay]%20[5.1]%20[YTS.MX].zip
+  file_name: "The Magnificent Seven Ride! (1972) [1080p] [BluRay] [5.1] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
