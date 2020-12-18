@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Night Of The Devils (1972)"
-  comment: "Night Of The Devils (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/b3ZCMkVTNEc1ODhIKzA0SHNsR1VVSFRZMUwySkRQQzliVUoxYVVzOSttM3RLWVh1Q0JReFJ4QjRqeXZkVEZac2lUVkV2OFQzcmtoZjBCeXhTYzBHRTUyVUVSRFU4b1IzRkE5eVk1UHdkdDQ9/E2A0A89B4C2FC42D1846790A993825247161BA20/Night%20Of%20The%20Devils%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
-  file_name: "Night Of The Devils (1972) [BluRay] [1080p] [YTS.LT].zip"
+  name: "Boxer From Shantung (1972)"
+  comment: "Boxer From Shantung (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/QXVKeTI0dEpESnVkSEFEZ1pCRjlTNmtwRjRiV1JUb1B5TnhDd3RkZzVZSTZzbW1KYWxYWEdxYlp0U3docGNCOG5NYTQ5WlpjMXlGWFBWTHZsWWxEWHhxUjBSR3hBS3JmZVVIdXBCa3psYUE9/DE9D972E925F6480C52C2EFB01478CF1734ECD3E/Boxer%20From%20Shantung%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
+  file_name: "Boxer From Shantung (1972) [BluRay] [1080p] [YTS.LT].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
