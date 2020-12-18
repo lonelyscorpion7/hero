@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "State Of Siege (1972)"
-  comment: "State Of Siege (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/WHpOUElCc01KanFIeGtROERLdmt2djVsemZSeC9XakdkalNleE9iVU8yWDhhektkbnVsN2VLSW5qemYxRDFJQ2pVMVRDOFhHanFhaGkxMjlQY1pxWVE9PQ==/7269443DC761D0AA7E012652F0668D11D40ED340/State%20Of%20Siege%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "State Of Siege (1972) [1080p] [BluRay] [YTS.MX].zip"
+  name: "The Discreet Charm Of The Bourgeoisie (1972)"
+  comment: "The Discreet Charm Of The Bourgeoisie (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/a1BMNk9aSlVuaTNESEtueUpMSXFYdlMyRVRSbXFUUm1SdUZZeFBTUWpQWHV1SFkyQ2IvdlpqRWJqSFZVTWtpbTZFT2JLQ3pzRDFRTVVYZlhzMWNwVFBDTThSYkxzOUpUOWdOVFhaQlNsWjA3U2tmdC9TU0lZNFFleFUvMmdCMm8=/00F61C1AFE8D17BA332863EA6485C82B18B78217/The%20Discreet%20Charm%20Of%20The%20Bourgeoisie%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "The Discreet Charm Of The Bourgeoisie (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
