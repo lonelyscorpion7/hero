@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Toys Are Not For Children (1972)"
-  comment: "Toys Are Not For Children (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/SnZtZTRjd2tHTktnemo3dmtFS1Q3TzFmN1pmYUtRR3BzRFoyNDZNeWpIWmF4MEZtaU95ZTVXbk1jUnYvYnp2WmZ1Z2EvbGNSNlFteVdSRFM4eWhQT0lEajNwUkoxQW5hSkhRVXJHaFFRS009/4BE02B0070D5736A942691C3AF535B421EB0FC1C/Toys%20Are%20Not%20For%20Children%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
-  file_name: "Toys Are Not For Children (1972) [BluRay] [1080p] [YTS.LT].zip"
+  name: "Tombs Of The Blind Dead (1972)"
+  comment: "Tombs Of The Blind Dead (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/bk9pdUFaOU04dkpZRWVOMkN2RVFCUnY3ZVNEdUFWUWVsSjdWVnRXWWZaWFlwNmNiR0ZvbHJaUkhPVEZXdXh0OXNBVXdoY0grZi9ZMzBjVStRbVE5MzU3K0QvV2VsVm8yVkhCMmp4cVYrYjA9/0AB361639C2C6AFC03B85D3EEFDFCF36C12FE91F/Tombs%20Of%20The%20Blind%20Dead%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
+  file_name: "Tombs Of The Blind Dead (1972) [BluRay] [1080p] [YTS.LT].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
