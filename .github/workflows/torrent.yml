@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Lone Wolf And Cub Baby Cart In Peril (1972)"
-  comment: "Lone Wolf And Cub Baby Cart In Peril (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/UGhpOFVBVzZxb00rZU04dDJvOTJkc0FFVTZ1WlArbEI1bjUrZnRHRCtjT3hWYU56TnhXZFZQUXByZDZiTVJodUVZRzZLeEUyRHEyODhtVGp3dEllQzFyQVlycmRhYTQ3aHVtVU95MUw5VUltdkpBdURqL0hOdU8xQ2FIVUZIUjg=/6BA770723D3AF3D43F9214CED458BD3134CFD5ED/Lone%20Wolf%20And%20Cub%20Baby%20Cart%20In%20Peril%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "Lone Wolf And Cub Baby Cart In Peril (1972) [1080p] [BluRay] [YTS.MX].zip"
+  name: "Butterflies Are Free (1972)"
+  comment: "Butterflies Are Free (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/RTlGWEJ2WmdVdGpaMEtpUlNIcENnTnRuaDM5NFNtRVZSUEg2Y2xRQWp1MXREYkpFSWJ6VzdXb1FBTks4OEtkeWgzN3NaVlppR0w4VTVSdGgwYnNVMEx3WVlNN2N5UW5MMzZBODVqY09HcUU9/73A15FA40E762BD32AF825911CFFD6DA9760B5EE/Butterflies%20Are%20Free%20(1972)%201080p%20[WEBRip]%20[YTS.MX].zip
+  file_name: "Butterflies Are Free (1972) [1080p] [WEBRip] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
