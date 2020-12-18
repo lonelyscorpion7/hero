@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Au Pair Girls (1972)"
-  comment: "Au Pair Girls (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/S29Jako1QWJRYXRPOG9vczRUdkRFTndXZ09wUXVDRzNKckc2aU5COFlaMUNlVUVDcmgyUVRQaDM0RHl6eUx0aW1FdXVwck5ERlFDSEhBbVZkQ0hacHc9PQ==/0F7FE004750CCA1A373BA4DFC148F893C150CB2C/Au%20Pair%20Girls%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "Au Pair Girls (1972) [1080p] [BluRay] [YTS.MX].zip"
+  name: "What's Up, Doc  (1972)"
+  comment: "What's Up, Doc  (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/bHdTMllyVW5JOUtoUmN1UDdheVA2VU5mMXpMZnhLOUNWV1RGRFVIM3o0aGhyZ2F0eFlFbm1DeGZENTJIMkh3WWJIUDNkT3ppcmQvRGYyaUtKQXBWWVE9PQ==/B3315C424CCF7E0A24623500800D82D849A5CFCF/What's%20Up,%20Doc%20%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "What's Up, Doc  (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
