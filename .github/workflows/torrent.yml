@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "ccsetup570"
-  comment: "ccsetup570"
-  url: https://prod.downloadnow.com/s/16/97/46/35/ccsetup570.exe?GoogleAccessId=download-sps-prod@i-cmb-prod.iam.gserviceaccount.com&Expires=1608263908&Signature=SUt6k%2FMNvLmZeNObdyNSbTbJRFW%2BBg9zWa3Wr9TySqz8BdLxDfstI7TGblyY24D1ZqAt54m5wIOrPRXL6oQQ%2BZtnuZtVlh9Lf8q1HlMuPQG%2FESO5OI4oDXigrcEkDtijUgduzbWY5VOYJniQPtxVMU0CNAKEReNCPwrxDMa%2FxBzmQ%2FNjk3cmNudd%2Bt3WQdcXP4UIwiVjMt%2FaUrtex64BGQToDbAJGs6%2BextOOuUQBaqRTGTdke%2FxJE7y4t%2BCT1RGXHyu57vKIYdqAWb0h9KVyW%2FapldaPCHM%2BSGk%2BDnf3%2BiT%2FSJrtQaUNKY2A0%2BbyFGa5DJpShK2fHQHtMbBxBlkyA%3D%3D
-  file_name: "ccsetup570.exe"
+  name: "Chloe In The Afternoon (1972)"
+  comment: "Chloe In The Afternoon (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/WXFlQm9aeUNFcXNWZktyQWJsMFhleVdtenkzVkdabEVCTTlRTU1MTU4rcUczT1N4V0lPNG9kYU5Eb2YwQmlDTkRqeHhHbU1mT1c5R2Y2MUc0WVkzOTIxL243UVh2OG9ud0pZZ3IwYjFKRms9/10916987BE65992B50F9C65782ABC4A81C3B871D/Chloe%20In%20The%20Afternoon%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Chloe In The Afternoon (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
