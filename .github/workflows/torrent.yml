@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Endless Night (1972)"
-  comment: "Endless Night (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/M2prR0dKV25BUUtzUjFmcCsySjFBeGdrS0JYMEVpa0dEblowRWd3ZjBWQ2Y4WVUxV0w0R0lFRmovc2JUYWpFNHZHWHA2d3dPMlJ3eXlWZXpibXRLUnc9PQ==/BEF1BF52755E5E606626EEBBB898007FC60FD907/Endless%20Night%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "Endless Night (1972) [1080p] [BluRay] [YTS.MX].zip"
+  name: "Greaser's Palace (1972)"
+  comment: "Greaser's Palace (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/OWF5UHJmeVN1dFVSYUF0VTVrYzMySnNtUmF1YWNlSzdQdjJtT3k4eWJxa0tRMUFPSGxrT25qc0wzQ0VmaGpVeVZtOGN4RnQ5b2FybmJuMVR2UjA1U1E9PQ==/367B6415FE7AD41C3A1EF419FE339825A2817156/Greaser's%20Palace%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
+  file_name: "Greaser's Palace (1972) [BluRay] [1080p] [YTS.LT].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
