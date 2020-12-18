@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The Magnificent Seven Ride! (1972)"
-  comment: "The Magnificent Seven Ride! (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/SDBPQ2N6Q1NTSkg0ZHV5QThvUUpZaDVCOGFVM3RtV0hpaHJPY2VueE4vMnY2VG1LaFZEaVJiWGYzK1NlTW9nTER3WlBLY1lVSzY5akhDTUlnMEMzL0duaFQxcG52VVJmRXFCb2F1OHdWQjg9/542EA22F14A3B62B7525CC347821179C99E42116/The%20Magnificent%20Seven%20Ride!%20(1972)%201080p%20[BluRay]%20[5.1]%20[YTS.MX].zip
-  file_name: "The Magnificent Seven Ride! (1972) [1080p] [BluRay] [5.1] [YTS.MX].zip"
+  name: "The Legend Of Boggy Creek (1972)"
+  comment: "The Legend Of Boggy Creek (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/MXFBZ2tnc2hxckpLTkVYZlM3cU95Q2RXbHl1dmY4R2p5SnZaNTd5ZnJkTmlmSkJDR3U0ZVVOUWlpQU1sVFkrRTBJUzN1SW9aZjFsRjRqL2hOSWtyWDJnOG0rU2p1SEtoVkJWQXViQ3pVdzQ9/20C1298129D22168F7EC204B649F6AA2271D21E0/The%20Legend%20Of%20Boggy%20Creek%20(1972)%201080p%20[WEBRip]%20[YTS.MX].zip
+  file_name: "The Legend Of Boggy Creek (1972) [1080p] [WEBRip] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
