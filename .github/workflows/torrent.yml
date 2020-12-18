@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "This Stuff'll Kill Ya! (1971)"
-  comment: "This Stuff'll Kill Ya! (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/cmxQWVdod3Q5Z0cvbkYzTGxHQXhNYThDNzdOaUNLdENqNldOdnpZc0gxSUkwZUlRbGkxMTlXdFArS1krbzl0SUhrbHBUV1Q3a0dWZ3ZzTDA1cWhlM1E9PQ==/3C2A78686EA1EC9D0BC1BCEDAA2C2C73A8D4057C/This%20Stuff'll%20Kill%20Ya!%20(1971)%201080p%20[YTS.AG].zip
-  file_name: "This Stuff'll Kill Ya! (1971) [1080p] [YTS.AG].zip"
+  name: "ccsetup570"
+  comment: "ccsetup570"
+  url: https://prod.downloadnow.com/s/16/97/46/35/ccsetup570.exe?GoogleAccessId=download-sps-prod@i-cmb-prod.iam.gserviceaccount.com&Expires=1608263908&Signature=SUt6k%2FMNvLmZeNObdyNSbTbJRFW%2BBg9zWa3Wr9TySqz8BdLxDfstI7TGblyY24D1ZqAt54m5wIOrPRXL6oQQ%2BZtnuZtVlh9Lf8q1HlMuPQG%2FESO5OI4oDXigrcEkDtijUgduzbWY5VOYJniQPtxVMU0CNAKEReNCPwrxDMa%2FxBzmQ%2FNjk3cmNudd%2Bt3WQdcXP4UIwiVjMt%2FaUrtex64BGQToDbAJGs6%2BextOOuUQBaqRTGTdke%2FxJE7y4t%2BCT1RGXHyu57vKIYdqAWb0h9KVyW%2FapldaPCHM%2BSGk%2BDnf3%2BiT%2FSJrtQaUNKY2A0%2BbyFGa5DJpShK2fHQHtMbBxBlkyA%3D%3D
+  file_name: "ccsetup570.exe"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
