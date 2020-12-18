@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Blutjunge Verfuhrerinnen 2 (1972)"
-  comment: "Blutjunge Verfuhrerinnen 2 (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/dlo1djRzamRjcGt0SXNaUElJVm14Zm0rMU5mV2I4UjZuWHZrZ2NoeU5tWWdLYlNLRXV5WG9tMExmV0RmbTludlBhN0hRc2NFeFFLS2trZWJ1N01YSDRMUGl0RTlkaUtxZVRyVTJLeDhKb1U9/C08CD56B3CB4DEEF12CC07AB1A628DB7A03A0B8D/Blutjunge%20Verfuhrerinnen%202%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "Blutjunge Verfuhrerinnen 2 (1972) [1080p] [BluRay] [YTS.MX].zip"
+  name: "Morgiana (1972)"
+  comment: "BMorgiana (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/ZHNyRGU0VXE4WDNGRHR3anlCWCszbDlUeUlycnV6NnJtenoxbWdaN1lCV3IrVC9wYUNldWJPTjJpcGJjUTZQOGJIK2dZT1djRnd4RC9ncmN1d3JEN1E9PQ==/159ECA5AB639C3CB638115D8EBEA39B088EE8FA8/Morgiana%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
+  file_name: "Morgiana (1972) [1080p] [BluRay] [YTS.MX].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
