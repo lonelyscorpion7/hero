@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The Legend Of Boggy Creek (1972)"
-  comment: "The Legend Of Boggy Creek (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/MXFBZ2tnc2hxckpLTkVYZlM3cU95Q2RXbHl1dmY4R2p5SnZaNTd5ZnJkTmlmSkJDR3U0ZVVOUWlpQU1sVFkrRTBJUzN1SW9aZjFsRjRqL2hOSWtyWDJnOG0rU2p1SEtoVkJWQXViQ3pVdzQ9/20C1298129D22168F7EC204B649F6AA2271D21E0/The%20Legend%20Of%20Boggy%20Creek%20(1972)%201080p%20[WEBRip]%20[YTS.MX].zip
-  file_name: "The Legend Of Boggy Creek (1972) [1080p] [WEBRip] [YTS.MX].zip"
+  name: "Sweet Sugar (1972)"
+  comment: "Sweet Sugar (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/N2FORWlpb0YwclZrdy9FQUx2MGRqNU1zdTgvL1FnbmF3OVFXQkZmNzVUZzhuSUdRSERnb0hGdXB6UWdsemZVYzNhTGFDaDlHYVFwSWFJck9qTHl5RHc9PQ==/38694E1F3C4620C0205EFFDA2C627F2B96990B15/Sweet%20Sugar%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
+  file_name: "Sweet Sugar (1972) [BluRay] [1080p] [YTS.LT].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
