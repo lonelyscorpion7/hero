@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Grave Of The Vampire (1972)"
-  comment: "Grave Of The Vampire (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/WmVRRVg0SW9od2JVdGNhTHllRWplSzhyaXRQVUV2T09HZWx3N3JRTEU2MUg3ZVZYL3lOYjZnUnpsZkY5bDNkeGkxUWJJK1JsTytyVk04cm9hV1RYU2cxODdlYnpYMGhMZ0FOMHZ2N0tUVGc9/FF8BD5880D15332CFE00DBC04BF2FCFA1D5EAB5D/Grave%20Of%20The%20Vampire%20(1972)%201080p%20[BluRay]%20[YTS.MX].zip
-  file_name: "Grave Of The Vampire (1972) [1080p] [BluRay] [YTS.MX].zip"
+  name: "Execution Squad (1972)"
+  comment: "Execution Squad (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/M05ZZnlBdHRySUpLSlJ0NnM5K0trdkV6WGhyVXQxalNsb29HM3hjZWxvTjliUlU3bkxCeG9lSGRpeHJ5MkRKTDE1b0NjamF2Q09sc2VWY3ZpWUpLOXc9PQ==/1E266C133AFE2A54217C720251B8DB8C97F415D2/Execution%20Squad%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
+  file_name: "Execution Squad (1972) [BluRay] [1080p] [YTS.LT].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
