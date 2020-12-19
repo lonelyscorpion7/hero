@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Fist Of Fury (1972)"
-  comment: "Fist Of Fury (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/TjJ2ZXlTM1Bsb3YvS21oU2VFeTgxdWw4NmJ5M3ZtMEpkN2hqQ3RISUFKS3VqcnQ4dUEranhVRGFURGI2QjlzOTVWbWRDOGZnckgwbzcyOXpNSWRLdnc9PQ==/1B8150466C61FB2C36552632AF09F944705AEAA0/Fist%20Of%20Fury%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
-  file_name: "Fist Of Fury (1972) [BluRay] [1080p] [YTS.LT].zip"
+  name: "Solaris (1971)"
+  comment: "Solaris (1971)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/aXdFc3JtcjRra2x3THBJcy9waHpvdW90M2ltM3NucEM5NXRmMjdWWjJyYW9XM3dNZnRKT25JTERWWmJBVnE5dUMwRmgyZkJWZ1NpL1FkditSeG9lcGc9PQ==/F17140F5FBC245AB4F3873294FCF122E9EBAF041/Solaris%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "Solaris (1971) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
