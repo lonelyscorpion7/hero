@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "The Grand Duel (1972)"
-  comment: "The Grand Duel (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/eklLM05TVkV6a2xNYkdzTTVFdExDalQ1Qzd6QzNWUm02aVk1dTZJZGttSm5rYlMzaWxFUHZ2ckpsREl4VWFncDlDenFVRFk5SDBKOXQyeU9OMWNyM2c9PQ==/C9D5981FC73273586968BCBFB6424CF54EDE9081/The%20Grand%20Duel%20(1972)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "The Grand Duel (1972) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Seven Blood-Stained Orchids (1972)"
+  comment: "Seven Blood-Stained Orchids (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/NzBOakxGRjRjejRqZElKVUw3MWZVdXRzeFExU2JoZjB5bitNWlFlbkZFM1lFSzd3cCtmd3RwejF2SWJmMFlxRndsd2JOZS9xaTVNbUwzY3Uyc0NEcld6SGlkdkVTQzRXcXJ6Nkx2VGJJSmc9/F6E4F18B848EA36B4FD021895AE344C3659E14F5/Seven%20Blood-Stained%20Orchids%20(1972)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "Seven Blood-Stained Orchids (1972) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
