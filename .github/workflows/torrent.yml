@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Execution Squad (1972)"
-  comment: "Execution Squad (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/M05ZZnlBdHRySUpLSlJ0NnM5K0trdkV6WGhyVXQxalNsb29HM3hjZWxvTjliUlU3bkxCeG9lSGRpeHJ5MkRKTDE1b0NjamF2Q09sc2VWY3ZpWUpLOXc9PQ==/1E266C133AFE2A54217C720251B8DB8C97F415D2/Execution%20Squad%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
-  file_name: "Execution Squad (1972) [BluRay] [1080p] [YTS.LT].zip"
+  name: "Images (1972)"
+  comment: "Images (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/WVN4Z2VzMUE4NTZKK0dXWVQwaEpGUEdaNEpRWWNSSHNPME1Pd2dLWGZCUFM2cGRKU3JpTGZvNmpjcWdvelVIakVYdk44dVNpY0hnR0szQVVyQ2pYY3c9PQ==/A2221A0CA2C85129F81F8B86C164DB32BB864382/Images%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
+  file_name: "Images (1972) [BluRay] [1080p] [YTS.LT].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
