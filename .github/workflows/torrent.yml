@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Solaris (1971)"
-  comment: "Solaris (1971)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/aXdFc3JtcjRra2x3THBJcy9waHpvdW90M2ltM3NucEM5NXRmMjdWWjJyYW9XM3dNZnRKT25JTERWWmJBVnE5dUMwRmgyZkJWZ1NpL1FkditSeG9lcGc9PQ==/F17140F5FBC245AB4F3873294FCF122E9EBAF041/Solaris%20(1971)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "Solaris (1971) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Treasure Island (1972)"
+  comment: "Treasure Island (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/Q3I4NEZwRGt1S3U2YWRrN2NITTY2NDBRTHZtTnlieWdHSi9xU1VhemRPcllrSzlNTnI0K3FuTUFPUzRrZkJTeFk4Ry9lY2JuWjJrRHRvckpmZG55K2c9PQ==/5D0ADE1CC39FC492396476677F4CEAD627D01A46/Treasure%20Island%20(1972)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "Treasure Island (1972) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
