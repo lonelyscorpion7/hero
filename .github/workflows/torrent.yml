@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Man Of The East (1972)"
-  comment: "Man Of The East (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/UGxFRGwrcXdUcjBmc05XNmxBZXRNMURPMFV0czVld0hxNUtGdURtSktZMC8rbDVSaWNxc3FjRTBLL3g0SDdaTTRScVU4OWdXc2E4TDdBTGpSRno0aXc9PQ==/A7BEA8F3F2166DE7FF473BBB4358B17A7D22A014/Man%20Of%20The%20East%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
-  file_name: "Man Of The East (1972) [BluRay] [1080p] [YTS.LT].zip"
+  name: "The Grand Duel (1972)"
+  comment: "The Grand Duel (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/eklLM05TVkV6a2xNYkdzTTVFdExDalQ1Qzd6QzNWUm02aVk1dTZJZGttSm5rYlMzaWxFUHZ2ckpsREl4VWFncDlDenFVRFk5SDBKOXQyeU9OMWNyM2c9PQ==/C9D5981FC73273586968BCBFB6424CF54EDE9081/The%20Grand%20Duel%20(1972)%20BluRay%20[1080p]%20[YTS.AM].zip
+  file_name: "The Grand Duel (1972) [BluRay] [1080p] [YTS.AM].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
