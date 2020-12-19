@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Treasure Island (1972)"
-  comment: "Treasure Island (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/Q3I4NEZwRGt1S3U2YWRrN2NITTY2NDBRTHZtTnlieWdHSi9xU1VhemRPcllrSzlNTnI0K3FuTUFPUzRrZkJTeFk4Ry9lY2JuWjJrRHRvckpmZG55K2c9PQ==/5D0ADE1CC39FC492396476677F4CEAD627D01A46/Treasure%20Island%20(1972)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "Treasure Island (1972) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Man Of The East (1972)"
+  comment: "Man Of The East (1972)"
+  url: https://dlsv6.sonicbit.net/dl/zip2/UGxFRGwrcXdUcjBmc05XNmxBZXRNMURPMFV0czVld0hxNUtGdURtSktZMC8rbDVSaWNxc3FjRTBLL3g0SDdaTTRScVU4OWdXc2E4TDdBTGpSRno0aXc9PQ==/A7BEA8F3F2166DE7FF473BBB4358B17A7D22A014/Man%20Of%20The%20East%20(1972)%20BluRay%20[1080p]%20[YTS.LT].zip
+  file_name: "Man Of The East (1972) [BluRay] [1080p] [YTS.LT].zip"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
