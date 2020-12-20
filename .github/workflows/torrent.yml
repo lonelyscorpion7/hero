@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Seven Blood-Stained Orchids (1972)"
-  comment: "Seven Blood-Stained Orchids (1972)"
-  url: https://dlsv6.sonicbit.net/dl/zip2/NzBOakxGRjRjejRqZElKVUw3MWZVdXRzeFExU2JoZjB5bitNWlFlbkZFM1lFSzd3cCtmd3RwejF2SWJmMFlxRndsd2JOZS9xaTVNbUwzY3Uyc0NEcld6SGlkdkVTQzRXcXJ6Nkx2VGJJSmc9/F6E4F18B848EA36B4FD021895AE344C3659E14F5/Seven%20Blood-Stained%20Orchids%20(1972)%20BluRay%20[1080p]%20[YTS.AM].zip
-  file_name: "Seven Blood-Stained Orchids (1972) [BluRay] [1080p] [YTS.AM].zip"
+  name: "Vanishing.Point.1971"
+  comment: "Vanishing.Point.1971"
+  url: https://free-184.fboom.me/f626767d6ed74/a42cc86b876fd/b38e02888c52a?temp_url_sig=fbeda5ac9de4fc4edad0892cee6ca1006b4c464e3432a5e39293cb337929429c76bcbefc25d5484d34f4da82221bd918e5fb1bf76da90fff370e0dabfd4b4fc0&temp_url_expires=1608533484&id=aed0cad3ff2c4&ip=any&node_id=184&countable=1&project=moneyplatform&user_id=39653050&rate_limit=51200&uf=e30365f7c5c31&tags=fb%2Cwebapi%2Cdownload&name=Vanishing.Point.1971.mkv&_ga=2.98627036.330303361.1608441495-548347732.1605080629
+  file_name: "Vanishing.Point.1971.mkv"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
